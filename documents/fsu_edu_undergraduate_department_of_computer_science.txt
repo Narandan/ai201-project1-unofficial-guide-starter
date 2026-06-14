@@ -1,0 +1,323 @@
+Undergraduate Department of Computer Science
+College of Arts and Sciences
+Website: https://www.cs.fsu.edu/
+
+Chair: Weikuan Yu; Professors: Aggarwal, Burmester, Duan, Kumar, X. Liu, Mascagni, Schwartz, G. Tyson, A. Wang, Whalley, Yu, Yuan, Z. Zhang; Associate Professors: Chakraborty, Haiduc, Hoang, P. Zhao; Assistant Professors: Fedyukovich, Gubanov, A. Li, Mallory, Wu, X. Zhang, K. Zhao; Courtesy Professors: Z. He, K. Mohror, S. Pakin, U. Karabiyik, T. Mukherjee, S. Onder; Teaching Faculty III: Langley, R. Myers; Teaching Faculty II: Jayaraman, M. Myers; Teaching Faculty I: Mills; Professors Emeriti: Baker, Hawkes, Lacher, Leach, Levitz; Panama City Faculty: Gaitros, Uh, Works
+
+In computer science education, whether graduate or undergraduate, currency is essential. Computer science is an exceptionally fast-moving field where knowledge is subject to rapid obsolescence and ideas progress swiftly from research to practice. The department therefore seeks to offer technical instruction that stays on the cutting edge of new developments while simultaneously providing each student with a core of intellectual tools that will never become obsolete. The department views skills in communication, mathematics, and algorithmic reasoning as central and the understanding of underlying principles as more important than familiarity with specific technical products. Still, direct hands-on experience is essential to mastering these skills and principles. If students are to be adequately prepared for careers in computer science, they should have extensive experience with machines and software that are state-of-the-art.
+
+The Department of Computer Science offers undergraduate and graduate programs leading to the Bachelor of Science (BS) and Bachelor of Arts (BA) degrees, and the Master of Science (MS) and Doctor of Philosophy (PhD) degrees.
+
+The Department has a number of active research programs across the spectrum of computing, including: artificial intelligence, computer architecture, computer graphics, computational biology, compilers, data science, networks and tools for distributed applications, parallel computation, databases and data mining, operating systems, algorithms, scientific problem solving environments, large-scale scientific computation and databases, computer and network security (including cryptography), computer forensics, computer vision, applied computational geometry, random number generation and Monte Carlo methods, as well as applications of fuzzy relations and non-classical logics. These research programs enjoy external support from agencies ranging from the National Science Foundation to the private sector.
+
+The Department of Computer Science has a full range of computing facilities available for instruction and research. Faculty and students share multiple groups of high-performance workstations, file servers, and computer servers over departmental LANs. Students and faculty whose research requires greater computational power have a variety of such equipment and may access other machines, including supercomputers and computer clusters, across the University.
+
+Affiliated research laboratories and research groups include the following:
+
+The Center for Security and Assurance in Information Technology (C-SAIT) Laboratory (https://sait.fsu.edu/) is dedicated to synthesis of education and research through the combined focus on theory and application of information security techniques.
+The Mobile Lab (https://mobile.cs.fsu.edu/) investigates mobile computing and develops mobile and web applications for all platforms, with special emphasis on Android and iOS.
+The Computer Architecture and SysTems Research Laboratory (CASTL) (https://castl.cs.fsu.edu/) has broad research interests in novel architectural and system technologies for big data analytics, cloud computing, high-performance computer and network systems, and the use of these technologies for fast scientific discoveries on computational biology and climate changes.
+The EXPLORER (EXtreme-scale comPuting, modeLing, netwORk & systEms Research) laboratory (https://explorer.cs.fsu.edu/) explores cutting-edge technologies for designing, evaluating, constructing, programming, and using extreme-scale distributed computing systems including super-computing systems, cloud computing data centers, networked computing systems, heterogeneous computing systems, and Internet of things.
+The Serene (Software EngineeRing: EvolutioN and maintEnance) Laboratory (https://www.cs.fsu.edu/~serene/) is dedicated to research in the field of Software Engineering and focusing on novel approaches and techniques to assist software developers in undertaking tasks common to the creation, understanding and maintenance of increasingly large software systems.
+The Applied Computer Vision Laboratory (https://cavis.fsu.edu/) develops novel and mathematically sound representations, modeling, and computational algorithms for computer vision, image analysis, and pattern recognition with direct medical, biological, and real-time video and image analysis applications.
+The E-Crime Investigative Technologies (ECIT) conducts research in support of digital forensics investigations. It develops new technologies and forensic tools to address real-world problems related to electronic or digital crime. ECIT often works closely with the Florida Department of Law Enforcement and with the National White Collar Crime Center.
+Degrees Offered
+The Department of Computer Science offers programs leading to the Bachelor of Science (BS) and Bachelor of Arts (BA) degrees, the Master of Science (MS) degree, and the Doctor of Philosophy (PhD) degree in Computer Science (CS). At the bachelor and master levels, programs of study are available for those who plan to work toward higher degrees, as well as for students planning on careers as computing professionals.
+
+Additionally, the department offers a Computer Programming and Applications BA major intended to allow students to choose from a variety of computer science electives to create the academic plan that best suits their needs. The department also offers two interdisciplinary degrees.
+
+The department offers a Combined Bachelor's/Master's Pathway: Computer Science BS/MS, designed for academically strong students who wish to pursue an accelerated program culminating in a bachelor's degree and an MS degree in Computer Science. Students who have reached junior status and have at least a minimum 3.5 GPA at FSU and a minimum 3.5 GPA in major coursework should contact the CS undergraduate advisor for more information.
+
+The Computer Science BS, Computer Science BA, and Computer programming and Applications majors also offer the combined path-way programs with the Computer Science MS and Interdisciplinary Data Sciences MS Degrees. Likewise, the Cyber Criminology BS offers the pathway program with the Cyber Criminology MS. These combined bachelor's/master's programs offers select undergraduate students the option of accelerating their studies and getting a head start on graduate school by allowing students in these programs to substitute specific graduate coursework for undergraduate classes and count up to four courses (12 credit hours) toward both bachelor's and master's degrees.
+
+In conjunction with the Department of Biological Science, the department offers an interdisciplinary BS degree in Computational Biology. The purpose of this interdisciplinary major is to provide a top-notch educational program for students interested in the areas of computational biology and bioinformatics. The program seeks to achieve two goals: (1) to develop an understanding of the issues associated with developing biologically meaningful computational models, and (2) to give students the broad-based education that is needed to create a set of models directed toward solving a practical biomedical problem.
+
+In conjunction with the College of Criminology and Criminal Justice, the department offers an interdisciplinary BS degree in Cyber Criminology. This program teaches students to understand the emerging problem of cyber-related crime as well as how computers can assist in the prevention, detection, and apprehension of cyber-crime perpetrators.
+
+In conjunction with the College of Education, the department offers the CS-Math/FSU-Teach major. This double major with Education helps prepare students to teach Math and Computer Science at the secondary level, i.e., middle and high school.
+
+In each of the undergraduate degree programs within the Department of Computer Science, students must meet all applicable University and College requirements and, unless otherwise specified, coursework required for the major must be completed with a “C–” or better. No CGS courses, and no internship courses such as CIS 3943r Cooperative Education Work Experience will count toward the requirements for Computer Science BS, Computer Science BA, Cyber Criminology or Computational Biology. CGS courses may count toward the requirements for the BA in Computer Programming and Applications major. CIS 4900r Directed Individual Study may count toward the requirements for Computer Science BS, Computer Science BA, and Computational Biology, but not for Cyber Criminology and Computer Programming and Applications BA. CIS 3250 is a required course for the Computer Science BS major. CIS 3250 can count as an CS elective for Cyber Criminology and Computer Programming and Applications majors. CIS 3250 cannot count as a CS elective for the Computer Science BA major. Computational Biology and Cyber Criminology students who have major codes within the Department of Biological Science or the College of Criminology are subject to the rules and requirements of those units. All students graduating from the Department of Computer Science will be asked to complete an exit survey in the semester prior to graduation.
+
+Currently, Computer Science has no restrictions on the number of hours that can overlap with another major.
+
+Note: All degree requirements stated are subject to change. Please refer to https://www.cs.fsu.edu/academics/undergraduate-programs for the most current information.
+
+Accreditation
+The BS degree program in computer science is accredited as a computer science degree program by the Computing Accreditation Commission of ABET, https://www.abet.org/. Note that ABET views the BS and BA as distinct degree programs, and that this accreditation is specifically for the BS degree program in CS and is not applicable to the BA degree in CS or the degrees in computational biology or cyber criminology.
+
+Distance Learning
+The Computer Science BS, Computer Science BA, and Computer Programming and Applications BA majors offered from the FSU Panama City campus are available through Internet-supported distance learning. Certain limitations regarding students seeking admission to upper-division studies in the Computer Science at the Panama City campus apply. For more information contact Florida State University's Office of Distance Learning (ODL) at https://distance.fsu.edu. Tallahassee computer science students wishing to take a computer science course that is remotely offered by the Panama City computer science faculty need to get permission from the Computer Science Director of Under-graduate Studies. Such permission is typically only provided when a required computer science course is full, is not offered by the Tallahassee campus, or the student has a course conflict that cannot otherwise be resolved.
+
+Honors in the Major
+The Department of Computer Science offers a program in honors in the major to encourage talented juniors and seniors to undertake independent and original research as part of the undergraduate experience. For requirements and other information, see the “University Honors Office and Honor Societies” chapter of this General Bulletin.
+
+Digital Literacy Requirement
+Students must complete at least one course designated as meeting the Digital Literacy Requirement with a grade of “C–” or higher. Courses fulfilling the Digital Literacy Requirement must accomplish at least three of the following outcomes:
+
+Evaluate and interpret the accuracy, credibility, and relevance of digital information
+Evaluate and interpret digital data and their implications
+Discuss the ways in which society and/or culture interact with digital technology
+Discuss digital technology trends and their professional implications
+Demonstrate the ability to use digital technology effectively
+Demonstrate the knowledge to use digital technology safely and ethically
+Each academic major has determined the courses that fulfill the Digital Literacy requirement for that major. Students should contact their major department(s) to determine which courses will fulfill their Digital Literacy requirement.
+
+Undergraduate computer science, computational biology, and cyber criminology majors must satisfy this requirement by earning a grade of “C–” or higher in COP 3014 or COP 3363.
+
+Note: The Department of Computer Science offers several courses, including CGS 2060, CGS 2100, CGS 3406, CGS 3465, COP 3014, and COP 3363, which are intended to meet the Digital Literacy requirement for students in other majors. However, students should check with their major department regarding whether any of these courses are designated as satisfying the computer skills competency in their major.
+
+Oral Communication Competency
+Students must demonstrate the ability to orally transmit ideas and information clearly. This requirement is met through a college-level approved course, such as SPC 1017 or SPC 2608(3). Students taking CIS 3250 or any GE Ethics course may take CIS 3250L (1) Ethics & CS lab to satisfy this requirement.
+
+State of Florida Common Program Prerequisites for Computer Science
+The Florida Virtual Campus (FLVC) houses the statewide, internet-based catalog of distance learning courses, degree programs, and resources offered by Florida's public colleges and universities, and they have developed operational procedures and technical guidelines for the catalog that all institutions must follow. The statute governing this policy can be reviewed by visiting https://www.flsenate.gov/Laws/Statutes/2021/1006.73.
+
+FLVC has identified common program prerequisites for the degree program in Computer Science. To obtain the most up-to-date, state-approved prerequisites for this degree, visit: https://cpm.flvc.org/programs/238/246.
+
+Specific prerequisites are required for admission into the upper-division program and must be completed by the student at either a community college or a state university prior to being admitted to this program. Students may be admitted into the University without completing the prerequisites but may not be admitted into the program.
+
+College Requirements
+Please review all college-wide degree requirements summarized in the “College of Arts and Sciences” chapter of this General Bulletin, as well as all University-wide requirements.
+
+Requirements for the BS and BA Degree Programs in Computer Science
+There are four majors for the CS bachelor's degree: the BS in Computer Science (BS CS), the BA in Computer Science (BA CS), the BA in Computer Programming and Applications (BA CPA), and the BA in Computer Science-Math/FSU-Teach (BA CSMFT). Distance-learning versions of the BS CS, BA CS, and BA CPA are offered through the Panama City campus.
+
+As of Summer 2024, admission to the BS CS and BA CS in computer science will no longer be specialized admissions program. A minimum 2.5 all college-level work attempted GPA is required for formal admission to the BA CSMFT major. All State Common Program Prerequisites listed as Term 1–4 milestones must be completed with a “C” range (C–, C, or C+) grade or better. Students earning less than the necessary grade in any of these courses will be required to retake those courses until the standard is met. Note: retaking a course may delay graduation and incur increased fee liability (i.e., repeat course surcharge and excess credit surcharge).
+
+The Computer Science BS and Computer Science BA majors have a retention policy. Once admitted, students must maintain a GPA of 2.5 or higher and cannot accumulate more than five unsatisfactory (D/F/U) grades in order to remain in the major. Upon admission into the program, the student must:
+
+Complete all courses required for the major with a grade of “C–” or better;
+Maintain a 2.5 all-college-level-work-attempted GPA, excluding the Term 1–4 State Common Prerequisites milestone courses;
+Not receive more than 3 unsatisfactory grades combined in Programming I (COP 3014 or COP 3363) and Data Structures I (COP 3330);
+Not accumulate more than 5 unsatisfactory grades (U, F, D–, D, or D+) in courses required for the major, excluding the Term 1–4 State Common Prerequisites milestone courses, taken after entering the program.
+Core Requirements - BS and BA in Computer Science
+In addition to all University and College of Arts and Sciences requirements, the common program prerequisites stated above, and the courses specific to each major that are listed separately under the respective headings below, all CS BA and CS BS students must complete the following core courses:
+
+MAD 2104 Discrete Mathematics I (3)
+
+CDA 3100 Computer Organization I (3)
+
+CEN 4020 Software Engineering I (3)
+
+CEN 4090L Software Engineering Capstone (1)
+
+COP 3363 Introduction to Programming in C++ (3)
+
+COP 3330 Data Structures, Algorithms, and Generic Programming I (3)
+
+COP 4530 Data Structures, Algorithms, and Generic Programming II (3)
+
+COP 4521 Secure Parallel & Distributed Computing in Python
+
+COP 4610 Operating Systems and Concurrent Programming (3)
+
+Students may complete COP 3014 (3) Programming I and COP 3353 Unix (1) in place of COP 3363 (3) Introduction to Programming to complete the requirement for this course.
+
+Non-major students completing CGS 3406 with an “A” or “A–” can count this as full credit for COP 3014 when transferring into a major offered by the Computer Science Department.
+
+Additional Requirements for BS Computer Science Major
+In addition to the core requirements described above and the common prerequisites for this major, each student must complete:
+
+MAD 3105 Discrete Mathematics II (3)
+
+COT 4420 Theory of Computation (3)
+
+CIS 3250 Ethics and Computer Science (3)
+
+STA 3032, 4321, or 4442 (3).
+
+At least twenty-three semester hours of computer science electives (up to two semester hours can be CIS 4900r), at least fifteen of which must be at the 4000 level (excluding CIS 4900r); one of the 4000-level computer science electives may be replaced with an advanced math elective (which must be a mathematics or statistics course with Calculus II (MAC 2312) or Discrete Mathematics II (MAD 3105) as a prerequisite). The required collateral courses in mathematics, natural science, and statistics constitute an acceptable interdisciplinary minor for students in this major.
+
+Additional Requirements for BA Computer Science Major
+In addition to the core requirements described above and the common prerequisites for this major, each student must complete:
+
+At least seventeen semester hours of computer science electives, at least twelve of which must be at the 4000 level, where up to three hours can be from CIS 4900.
+At least nine semester hours in the fields of humanities and history, in addition to those taken to satisfy the CoreFSU Curriculum and foreign language requirement.
+A minor approved by the department.
+The general electives and additional courses in the humanities and history may be applied toward satisfaction of the minor requirement. Students should contact the CS undergraduate advisor for information concerning acceptable minors. Additional general electives are required to bring the total credits to 120 hours.
+
+Note: Because of reduced requirements in mathematics and theoretical computer science, students graduating with the BA in CS who wish to be admitted to the graduate program in CS at FSU may be required to take remedial undergraduate courses (https://www.cs.fsu.edu/academics/graduate-programs/undergraduate-pre-requisites/), like students from other closely related majors such as Mathematics and Computer Engineering.
+
+Requirements for the BS Degree Program in Computational Biology
+In addition to the common prerequisites for this major, students must complete the following courses from biological sciences: BSC 2010, BSC 2011, and PCB 3063, for a total of nine hours.
+
+From computer science, students must complete CDA 3100, COP 3363, COP 3330, and COP 4530, for a total of twelve hours. Students may complete COP 3014 (3) Programming I and COP 3353 (1) Unix in place of COP 3363 (3) Introduction to Programming to complete the requirement for this course.
+
+Students must complete an additional twenty-four hours of electives chosen from Biology, Computer Science, Math and/or Statistics. The Computer Science electives may be chosen from COP 3252, CEN 4020, COP 4710, COT 4420, and CIS 4900r, IDC 4140. Biology electives are chosen from BOT 4394, BSC 2010L, BSC 2011L, BSC 3402L, BSC 4613, BSC 4900r, BSC 4933, MCB 4403, MCB 4403L, PCB 3134, PCB 3743, PCB 4024, PCB 4233, PCB 4253, PCB 4674, PCB 4701, or PCB 4843. The math electives are chosen from MAC 2312, MAC 2313, MAP 2480, or MAP 4481. The Statistics electives are chosen from STA 4102, STA 4103, STA 4202, STA 4203, STA 4442, STA 4502, or STA 4702.
+
+In addition, the following must be completed: Mathematics: MAC 2311 and MAD 2104 totaling seven hours; Statistics: STA 2122, STA 2171, or STA 4442 totaling three hours; Chemistry: CHM 1045, CHM 1045L, CHM 1046, and CHM 1046L totaling eight hours.
+
+Requirements for the BS Degree Program in Cyber Criminology
+Except for CCJ 2020, CCJ 3011, and CCJ 4700, which must be passed with a “C” or better, all courses required for the major must be completed with a grade of “C-” or better.
+
+In addition to the common prerequisites for this major, students must complete the following core from computer science: COP 3330, COP 3363, and CIS 4360, totaling nine hours. Students may complete COP 3014 (3) Programming I and COP 3353 (1) Unix in place of COP 3363 (3) Introduction to Programming to complete the requirement for this course.
+
+A total of twelve elective hours must be completed, chosen from CDA 3100, CEN 4020, CIS 3250, CIS 4930, CNT 4406, CNT 4504, CNT 4603, COP 3252, COP 4342, COP 4530, COP 4610, and COP 4710, IDC 4140. CIS 4930 Special Topic can count for only one CS elective. The capstone course CIS 4385 must be completed for three credits.
+
+From criminology, students must complete the following core: CCJ 2020, CCJ 3011, CCJ 4700, and CJE 3110 totaling twelve hours. A total of nine elective hours must be completed, chosen from CCJ 3644, CCJ 3666, CCJ 4497, CCJ 4614, CJC 3010, CJE 4610, CJJ 4010, CJL 3510, and CJL 4064. The capstone course CCJ 4938, CJ System Responses to Cybercrime, must be completed for three credits.
+
+In mathematics, students must complete MAC 2311 and MAD 2104 for seven hours.
+
+Requirements for the BA Computer Programming and Applications Major
+All courses required for the major must be completed with a grade of “C–” or better.
+
+In addition to the common prerequisites for this major, students must complete the following core from computer science: COP 3330, COP 3363, COP 4530, CEN 4020, CEN 4090L, and CDA 3100, totaling sixteen hours. Students may complete COP 3014 (3) Programming I and COP 3353 (1) Unix in place of COP 3363 (3) Introduction to Programming to complete the requirement for this course.
+
+A total of twenty-four elective hours must be completed in the Computer Science department. Six hours of these electives must be programming language electives. At least twenty-one hours of elective coursework must be numbered above 3000.
+
+In mathematics, students must complete MAC 2311 and MAD 2104 for seven hours.
+
+Students must complete a minor approved by the department and at least nine semester hours in the fields of humanities and history, in addition to those taken to satisfy the CoreFSU Curriculum and foreign language requirement.
+
+The general electives and additional courses in the humanities and history may be applied toward satisfaction of the minor requirement. Students should contact the CS undergraduate advisor for information concerning acceptable minors. Additional general electives are required to bring the total credits to 120 hours.
+
+Requirements for the BA CS-Math/FSU-Teach Major
+All courses required for the major must be completed with a grade of “C–” or better.
+
+In addition to the common prerequisites for this major, students must complete the following core from computer science: COP 3330, COP 3252, COP 3363, COP 4530, CEN 4020, CEN 4090L, and CDA 3100, totaling nineteen hours. Students may complete COP 3014 (3) Programming I and COP 3353 (1) Intro to Unix in place of COP 3363 to complete the requirement for this course.
+
+A total of six elective hours numbered above 3999 must be completed in the Computer Science department.
+
+In mathematics, students must complete MAD 2104 for three hours.
+
+At least nine semester hours are required in the fields of humanities and history, in addition to those taken to satisfy the CoreFSU Curriculum and foreign language requirement.
+
+The CS-Math/FSU-teach major is a double-major only curriculum requiring students to complete a second major in Secondary Science or Mathematics Teaching (SSMT) in addition to the above requirements. The program will pay for the first two Education courses, SMT X043 and SMT X053. Students seeking certification must be formally admitted to the School of Teacher Education and meet all of the requirements for pursuing a state-approved program. For information regarding the requirements for the second major in Secondary Science or Mathematics Teaching (SSMT), please see the FSU-Teach chapter in this General Bulletin for School of Teacher Education. For additional information, see the website: https://FSU-Teach.fsu.edu/.
+
+Requirements for a Minor in Computer Science
+Students pursuing a minor in Computer Science may choose a minimum of twelve (12) hours from a list of computer science courses preapproved by the department. Courses outside of the preapproved lists must be approved in advance (in writing) by the department. Students must also satisfy stated prerequisites before enrolling in any computer science course offered by the Computer Science Department, including CGS 2060 (or CGS 2100), CGS 3465, CGS 3406 (or COP 3014 or COP 3363), additional COP 3XXX/4XXX, CIS 3XXX/4XXX, CNT 3XXX/4XXX, CDA 3XXX/4XXX, and CAP 3XXX/CAP4XXX to a total of 12 hours, subject to the following:
+
+Only one of CGS 2060 and CGS 2100 can be counted toward the minor;
+Only one from CGS 3406, COP 3014, and COP 3363 can be counted toward the minor; and
+At least one programming course from CGS 3465, CGS 3416, COP 3014 (or CGS 3406, or COP 3363). Students must also satisfy stated prerequisites before enrolling in any computer science course.
+A grade of “C–” or higher must be earned in each course counted toward the minor. For more information on the minor, including preapproved courses, see https://www.cs.fsu.edu/academics/undergraduate-programs/minor-in-computer-science.
+
+Definition of Prefixes
+CAP—Computer Applications
+
+CDA—Computer Design/Architecture
+
+CEN—Computer Software Engineering
+
+CGS—Computer General Studies
+
+CIS—Computer Science and Information Systems
+
+CNT—Computer Networks
+
+COP—Computer Programming
+
+COT—Computing Theory
+
+IDC—Interdisciplinary Computing
+
+ISC—Interdisciplinary Sciences
+
+Undergraduate Courses
+Note: Certain courses are sometimes offered in a distributed format and as such are available to distance learning students in addition to residential students. Contact the Computer Science Department for details or go to https://www.cs.fsu.edu/.
+
+CAP 4601. Introduction to Artificial Intelligence (3). Corequisite: COP 4530. This first course in Artificial Intelligence (AI) is designed to expose the student to both the breadth and depth of the subject. Topics include problem solving, knowledge and reasoning, acting logically, uncertain knowledge and reasoning, learning, and communicating, perceiving and acting.
+
+CAP 4613. Deep and Reinforcement Learning Fundamentals (3). Prerequisite: COP 3330. This course covers fundamental principles and techniques in deep and reinforcement learning. Topics include convolutional neural networks, recurrent and recursive neutral networks, back-propagation algorithms, regularization and optimization techniques for training such networks, dynamic programming, Monte Carlo and temporal difference methods, and applications of deep and reinforcement learning. Active research topics in deep and reinforcement learning areas are also incorporated.
+
+CAP 4730. Computer Graphics (3). Corequisite: COP 4530. This course covers the fundamental hardware and software elements of computer graphics systems, including intelligent terminals, communication, and graphic languages; cost effective use of interactive graphics; CAD/CAM; office automation; and computer animation.
+
+CDA 3100. Computer Organization I (3). Corequisite: COP 3330. This core course is intended for computer science majors with previous C/C++ background. It introduces fundamental concepts in computer organization and digital logic design, including number representation, instruction set architecture, logic gates and design, datapath and control, pipeline, memory hierarchy, the machine instruction execution cycle, and performance measures and assessment.
+
+CDA 3101. Computer Organization II (3). Prerequisite: CDA 3100. This course explores the fundamental concepts in processor design, including datapath and control, pipelining, memory hierarchies, and I/O.
+
+CDA 4150. Computer Architecture (3). Prerequisite: CDA 3101. This course explores high performance architecture design and analysis, including memory-system design, pipelining, vector computers, and multiprocessors.
+
+CEN 4020. Software Engineering I (3). Prerequisite: COP 4530. This course starts with a rigorous study of object-oriented design techniques and an introduction to current practices in Software Engineering. By the end of the course, students participate in a group design project putting into practice what they have learned to date. Topics include UML, Object Oriented Design, theory and practice of software engineering, ethics in Computer Science and Software Engineering, Software Engineering tools, requirements elicitation, software-requirements specification, requirements review, software development, software-development life cycle, teams, and project management. This course satisfies the University's Upper Division Writing requirements.
+
+CEN 4021. Software Engineering II (3). Prerequisite: CEN 4020. This course is the second of a two-semester sequence on project-system development and focuses on software design and implementation. Topics include software design, architectures, testing, deployment, metrics, configuration management, reusability, portability, and interoperability.
+
+CEN 4090L. Software Engineering Capstone Project (1). Prerequisite: COP 4530. Corequisite: CEN 4020. In this course, students apply their software engineering, programming, and teamworking skills in a semester-long group project to design and implement an original software system from scratch. The team project exposes students to working in groups on a larger project and the complexity of communications among multiple participants. This course satisfies the University's Scholarship in Practice requirement.
+
+CEN 4681. Expert Systems (3). Corequisite: COP 4530. This course covers definitions and historical development, methodology tools for analysis and design, survey of existing systems, inference engines, and theory and applications of fuzzy relational products to new developments in inference engines.
+
+CGS 2060. Computer Fluency (3). This course teaches important computer and digital technology concepts and skills necessary to succeed in careers and in life. Course topics range from computer literacy basics, to today's technologies, and to the information systems on which today's businesses and organizations depend. Students learn about telecommunications, the Internet and the Web, management information systems, digital media, information security, digital society, as well as ethics.
+
+CGS 2100. Microcomputer Applications for Business/Economics (3). This course enables students in business and economics to become proficient with microcomputer hardware and software applications that are typically used in the workplace. The following topics are covered: hardware concepts, operating systems, word-processing, spreadsheets, databases, networks, Internet, World Wide Web, multi-media presentations, and information systems. May not be applied toward computer science major or minor. Not open to students with credit in CGS 2060.
+
+CGS 2930r. Special Topics for Non-Majors (1–3). This course covers special topics for non-majors. Topics may vary. This course is repeatable in a single semester with instructor permission. May be repeated to a maximum of three semester hours.
+
+CGS 3066. Web Programming and Design (3). This course provides an overview of Internet communications and information services, as well as the technologies on which the Internet and Web are built. The course emphasizes Web design, development, and programming with participants learning the latest tools and techniques for building professional-grade, dynamic, and interactive Web pages and sites.
+
+CGS 3406. Object-Oriented Programming in C++ (3). Prerequisite: MAC 1105. This course covers a brief introduction to computers, C++ basics, procedural abstraction and functions, an introduction to the object-oriented paradigm, namespaces, arrays, strings and vectors, pointers, and recursion. Emphasis is on program problem-solving. May not be applied toward a computer science major.
+
+CGS 3416. Java Programming for Non-specialists (3). Prerequisite: MAC 1105. This course covers Java basics, a review of structured and object-oriented programming concepts, classes, constructors, interfaces, exceptions, I/O, graphics concepts, jar files, compilation, virtual machines, applications, applets, APIs, HTML, XML, and XHTML.
+
+CGS 3465. Introduction to Programming Using Python (3). Prerequisite: MAC 1105. This course includes Python basics, use of Python control and data structures, use of Python functions, Python I/O, and implementation of basic Python programming tasks. This course satisfies the University's Computer Competency requirement.
+
+CGS 4067. Introduction to Computer Security for Non-CS Majors (3). This course is an introduction to computer security. The course covers basic concepts and the first principles and practices of computer security; particularly the security policies, models, and mechanisms related to the confidentiality, integrity, authentication and availability of computer systems.
+
+CIS 3250. Ethics and Computer Science (3). This course presents ethical theories and analysis methods as they apply to ethical, social, and legal issues in computing and information technology. Case studies and hypothetical scenarios are discussed for their social, ethical, and legal implications, as well as analyzed through various ethical-analysis methodologies. The course fosters the development of skills in logical and critical analysis of issues and viewpoints.
+
+CIS 3250L. Ethics and Computer Science Public Speaking Lab (1). Corequisite: CIS 3250. Note: Corequisite can be waived if the student already has credit for an Ethics course. This course teaches students to understand and apply basic principles of effective public speaking and audience analysis. This course is an introduction to speech communication with emphasis on public speaking, including techniques to lessen speaker anxiety, and the use of visual aids to enhance speaker presentations. This course prepares students for success in typical public speaking situations and provides them with the basic principles of organization and research needed for effective speeches. This course satisfies the university's Oral Communication Competency requirement.
+
+CIS 3943r. Internship in Computer Science (3–6). (S/U grade only.) Prerequisites: COP 4530; successful completion of sixty hours of coursework with a minimum overall GPA of 3.0, including fifteen hours in computer science courses with a minimum GPA of 3.2; and internship coordinator permission. This course involves field placement in an approved industry or government entity having a significant information technology or computer science component. May be taken for variable credit and repeated (with departmental approval), but only three semester hours may count towards graduation. Successful completion requires satisfactory job evaluation and a demonstration of the educational value gained through the placement, usually through a paper and/or presentation. May be repeated to a maximum of (12) credit hours; repeatable within the same term.
+
+CIS 4138. Introduction to Software Reverse Engineering and Malware Analysis (3). Prerequisite: CDA 3100. This introductory course provides comprehensive coverage of fundamental problems, principles, and techniques in software reverse engineering of binaries including static analysis techniques, disassembly algorithms, dynamic analysis techniques, automated static and dynamic analysis techniques, malware analysis techniques, anti-analysis techniques, and malware obfuscation and packing techniques; many of the techniques will be demonstrated and practiced using IDA. The course also involves analyzing malware samples.
+
+CIS 4360. Computer Security Fundamentals (3). Prerequisite: COP 3330. This is an undergraduate-level introduction to computer security, targeted towards seniors and advanced juniors. This course covers a broad range of topics within computer security, such as cryptographic algorithms, security protocols, network authentication, and software security.
+
+CIS 4385. Cybercrime Detection and Forensics (3). Prerequisites: CIS 4360 and CJE 3110. This course discusses tools, techniques, and procedures for detecting cybercrime and analyzing collected data related to past and on-going cyber offenses, along with preserving the legal value of the collected evidence.
+
+CIS 4626. Introduction to Offensive Computer Security (3). Prerequisite: CDA 3100. This course takes a hands-on approach to train students in the fundamental principles in computer security, including software security and web security. Its goal is to help students understand how various attacks work, what their fundamental causes are, how to defend against them, and how various defense mechanisms work. These key concepts are reinforced by various hands-on projects.
+
+CIS 4900r. Directed Individual Study (1–3). May be repeated to a maximum of twelve semester hours.
+
+CIS 4930r. Special Topics in Computer Science (3). Prerequisite: Instructor permission. Course topics vary. May be repeated to a maximum of six (6) credit hours; repeatable within the same term.
+
+CIS 4933r. Honors in the Major Research (1–6). In this course, students accepted into the Honors in the Major program complete an original research or creative project in their major area of study. This course must be repeated at least twice to complete a minimum of six (6) credit hours total but may be repeated up to a maximum of twelve credit hours in total.
+
+CNT 4406. Network Security and Cryptography (3). Corequisite: COP 4530. This course examines threats to computer networks, network vulnerabilities, techniques for strengthening passive defenses, tools for establishing an active network defense, and policies for enhancing forensic analysis of crimes and attacks on computer networks. Topics include private and public key cryptography, digital signatures, secret sharing, security protocols, formal methods for analyzing network security, electronic mail security, firewalls, intrusion detection, Internet privacy, and public key infrastructures.
+
+CNT 4504. Introduction to Computer Networks (3). Corequisite: COP 4530. This course covers circuit-switched and packet switched networks; protocols; protocol layering; application layer and socket programming; transport layer, multiplexing and demultiplexing, UDP, TCP, reliability, flow control, and congestion control; network layer, routing protocols, switching technologies, multicast, and mobility; link layer, local area networks, error detection and correction; wireless networks; multimedia networking; network security; network management.
+
+CNT 4603. Computer and Network System Administration (3). Prerequisite: CGS 3406 or COP 3014. This course offers a hands-on introduction to Unix and Microsoft Windows systems and network administration. Topics include installation, maintenance, and extension of a multi-user computer system; development of administrative policies and procedures; user assistance and education; specifics of the Unix and Windows operating systems; and practical troubleshooting and problem solving.
+
+COP 3014. Programming I (3). Prerequisite: MAC 1140. This course covers programming's fundamental concepts and skills in a high-level language that includes flow of control; data structures—arrays, strings, and structs; selection/iteration; procedural paradigm; interactive/file IO; and testing/debugging. Students evaluate and/or interpret digital data and/or their implications, and they demonstrate the ability to use digital technology effectively, correctly, and safely.
+
+COP 3252. Advanced Programming with Java (3). Prerequisite: COP 3330. This course offers instruction in advanced programming using Java/ This course assumes the student is conversant with C++. The course covers the core features of the Java language, together with as many advanced topics as time permits.
+
+COP 3330. Data Structures, Algorithms, and Generic Programming I (3). Prerequisite: COP 3014 or a comparable course in C or C++ programming. Corequisite: COP 3353. This course focuses on object-oriented programming in a modern programming language; classes, objects, inheritance, and polymorphism; introduction to data structures and container classes.
+
+COP 3353. Introduction to UNIX (1). This course for majors and non-majors offers an introduction to the UNIX operating system. Topics include: UNIX history, requesting UNIX accounts, logging into a UNIX system, basic operating system concepts and file structure, basic commands, text editor(s) (to include emacs, vi, and pico), printing, mail, and online help. The goals of this course are to enable students to log in to their UNIX accounts from any type of computer and have a basic understanding of the commands and utilities.
+
+COP 3363. Introduction to Programming in C++ for Majors (3). Prerequisite: MAC 1140 or higher or instructor permission. This course covers fundamental concepts and skills of programming in C++ in the Unix Environment and is primarily for Computer Science majors who are taking upper division computer science courses. Students are also instructed on efficient program design using a combination of procedural and Object Oriented paradigms.
+
+COP 3502. Introduction to Computer Science (3). Prerequisites: MAC 1105 and previous computer experience. This course covers basic computer organization; computer languages and software; language translation and interpretation; object oriented design; object oriented programming, classes, objects, and inheritance; file systems; and I/O. May not be applied toward a major in computer science.
+
+COP 4020. Programming Languages (3). Corequisite: COP 4530. This course covers the principles of programming languages, including language constructs, syntactic and semantic specification methods, runtime structures, implementation techniques, and alternative programming paradigms. The course involves programming assignments in a variety of languages and individual investigations accompanied by a required written report and oral presentation.
+
+COP 4342. Unix Tools (3). Prerequisite: COP 3330. This course introduces students to a variety of Unix based commands, utilities, and languages such as shell scripts, Perl, Python, debuggers, editors, and others such as the ones used for network monitoring. The utilities are available to assist users, researchers, programmers and system administrators who operate in a Unix/Linux environment.
+
+COP 4530. Data Structures, Algorithms and Generic Programming (3). Prerequisites: COP 3330 and MAD 2104. Pre- or corequisite: CDA 3100. This course focuses on definition, use, and implementation of generic data structures using a modern programming language; reusable program components.
+
+COP 4521. Secure Parallel and Distributed Computing with Python (3). Prerequisite: COP 4530. This course explores Python, a very popular and versatile programming language with applications across a variety of domains. This programming language owes its popularity to its ease of use and a large and dynamic list of third-party libraries. This course explores how several Python libraries can be used in different scenarios and applications to solve a diverse set of problems.
+
+COP 4531. Complexity and Analysis of Data Structures and Algorithms (3). Prerequisites: COP 4530 and MAD 3105. Corequisite: STA 3032 or STA 4442. This course is an analysis of the complexity of algorithms, including sorting, searching, and graph algorithms; use and implementation of graphs.
+
+COP 4610. Operating Systems (3). Prerequisite: COP 4530. Corequisite: CDA 3101 and COP 4530. This course explores design principles of batch, multiprogramming, and time-sharing operating systems; linking; loading; input-output inter acting processes; storage process and resource control; and file systems.
+
+COP 4620. Introduction for Compiler Writing (3). Prerequisites: CDA 3100 and COT 4420. This course is an introduction to design and implementation of compilers for high-level programming languages. Topics include all phases of a typical compiler, including scanning, parsing, semantic analysis, intermediate code generation, code optimization, and code generation. Students design and develop a compiler for a small programming language. Emphasis is placed on using compiler development tools.
+
+COP 4656r. Mobile Programming (3). Prerequisite: COP 4530. This course teaches students how to program mobile devices. Students use event-based models to write and deploy a content based application using a mobile computing software framework. May be repeated to a maximum of nine semester hours.
+
+COP 4710. Theory and Structure of Databases (3). Prerequisites: COP 3330 and MAD 2104. This course examines the theory of relational and object-oriented databases; relational database management systems and SQL; design, development, and implementation issues in database systems.
+
+COP 4813. Web Applications Programming (3). Prerequisite: COP 3252. This course teaches programming of distributed Web applications using Java Database Connectivity, Servlets, Java Server Pages, Remote Method Invocation, and Enterprise Java Beans (both session and entity beans). Use of the Sun Microsystems Java 2 Enterprise Edition development platform either directly or through an Integrated Development Environment such as IBM's Websphere is also covered.
+
+COP 4870. Full-Stack Application Development with C# (3). Prerequisite: COP 3330. This course teaches full-stack application development, specifically focused on C# and the .NET platform, including C# syntax as well as common industrial coding patterns and theories for building scalable software.
+
+COT 4401. Top 10 Algorithms (3). Prerequisite: COP 4530. This course focuses on a wide-ranging selection of ten of the most influential algorithms in use today: what they are, how they work, and their impact on modern life.
+
+COT 4420. Theory of Computation (3). Prerequisite: MAD 3105. This course is an introduction to the theory of computation, including models of computation such as Turing machines; theory of programming languages, including grammars, parsing, syntax, and semantics.
+
+IDC 4140. Introduction to Data Science (3). Prerequisite: COP 4530. This course is an introduction and overview of the fundamentals of Data Science. Students become familiar with the Data Science process and how to use the methodologies and algorithms to approach real world problems.
+
+IDC 4290. Projects in Data Science (3). Prerequisites: COP 4530 and STA 4442. This course introduces concepts and techniques for design and execution of data science analysis projects using real world data sets. Topics covered include experimental design, data collection, statistical analysis, data visualization, and scientific writing and presentation. This course involves a semester-long project to acquire and analyze data and evaluate results.
+
+For listings relating to graduate coursework, consult the Graduate Bulletin.

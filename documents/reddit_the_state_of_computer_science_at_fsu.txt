@@ -1,0 +1,1923 @@
+Go to fsu
+r/fsu
+•
+2y ago
+DevelopmentExact554
+
+The state of Computer Science at FSU
+Hey everyone I'm making this post to sound the alarm bell for those looking to get into CS at FSU. Don't.
+
+For those who don't know what's going on, the CS department since the pandemic has been on life support, not enough professors, not enough funding, and not good enough. This is in stark contrast to the college of engineering which I've only heard high praise from, so if you want to be an engineer at FSU you have nothing to worry about, the same can't be said for CS.
+
+Why CS at FSU sucks.
+
+FSU itself doesn't even seem to really care about us, a prime example is the old sputnik building that we're housed in, that finally got funding to remove black mold from the ac vents. Funding is a funny thing more about this later.
+
+The professors, and Jesus are they awful. Most of them are ancient and are stuck in the past still teaching irrelevant coursework and acting like they're amazing. They can't fathom how a 19 year old can't understand a "simple" topic that was taught 3 weeks ago in a single slide. "We talked about this a month ago, you should know this, how do you not, it's so easy don't be lazy." You're the one being lazy when your response is to dog on the student. It would be fine if this was a few but this is MOST of them.
+
+The TAs here are HORRIBLE. Most of the TAs don't know what they're doing and it's OBVIOUS, because the CS department likes accepting international students most, not all, only know python. As a C++ school you could see how the lack of knowledge would affect students. How could you not know what a pointer is? That's why I came to you...
+
+The courses are limited, irrelevant, and misleading. I love how the upcoming semester has the WORST electives possible to choose from, kinda speaks for the department itself.
+
+By limited I mean that there are only 11 electives to choose from, doesn't sound bad until you realize that 4 of them are just some niche data science stuff you'll never use, 3 of them about cyber security where only one is actually useful (Forensics) if it's taught by Ruddell.
+
+By misleading I mean that 2 of the electives are actually horribly structured, databases with Schwartz is actually a joke where you don't even learn SQL like how bro, nice guy but horrible teacher. AI is a complete lie, it teaches nothing about today's AI, instead it teaches about traditional AI stuff that was relevant ~20 years ago.
+
+This leaves 2 electives that are actually pretty cool, Algorithms and Compiler Writing. One of them is a niche and the other an important class that could be taught better but gg go next.
+
+While on the topics of electives, the others we do offer aren't even good, and some that the CS department claims it still does aren't, they're lying. The professor who taught computer graphics (CAP 4730) left YEARS ago, Web applications (COP 4813) hasn't been taught since 2018, Python Programming (COP 4046C) has NEVER been taught, why is this on their website?
+
+The teaching faculty here are actually good. Mills, Jayaraman, Sonia, and the Myers are professors you actually learn from, Bob and Sharanya are controversial but at least you get something from the class. Too bad the department chair thinks they're "...a waste of resources." and the hiring committee for the new teaching faculty won't hire anyone who doesn't have a PHD. Like you're gonna get someone who wants to come here, c'mon be for real.
+
+The funding for undergrads is basically non-existent. There's a reason why FSU 10 years ago was considered number 1 in computer science, it's because they cared back then. HackFSU no longer exists, ACM is a shell of its former self, and student resources forget about it. Apparently there's not enough funding for cs clubs, getting undergrad TAs, nor teaching faculties, but of course there's a huge amount in research. What do we even research in? We're FSU not UCF or UF like buddy we're not even better than FIU cmon.
+
+Lack of student resources. This bounces off the last point, the CS department does NOTHING to help you succeed, it's all done by ACM and our career liaison. ACM is basically the CS club at FSU, they host several events and brought Google, Liberty Mutual, and other companies to come recruit. It's too bad the CS chair for some reason thinks that funding should only be going to research and even deducting the amount all CS clubs get by around ~75%. Whatever he's on I want it.
+
+Cheating here among the international students runs RAMPANT. I swear to you I've seen it happen first hand, graduate students here are allowed to cheat during finals, pull out their phone and talk amongst themselves, and for some reason it's ONLY the international students. How could we allow this to happen, why do we allow them to be TAs, why are the professors who see this do nothing, it comes down to a lack of caring, they want graduate students to pass so they don't care.
+
+The curriculum, the meat and bones, except the bones are taped together and the meat seems to have been forgotten. The core classes for computer science seems to be missing...A LOT and that's an understatement. We threw out Databases and Algorithms and decided that object oriented programming should be reclassified to data structures, like what? What are you doing? It was done so that we could teach more electives and compete with UF and UCF when we don't have enough faculty to compete with them.
+
+Collaboration doesn't exist at FSU. There's 3 other departments all having to do with cs: computer science,  scientific computing and the School of Information. And none of the 3 like to collaborate with each other, the separation itself doesn't make sense why not create a huge department or college that encompass those three? Instead it creates a divide where IT, CS, and Data science aren't in the same department and can't take each others classes. Even the college of engineering has great classes for cs that can't be taken because of no collaboration. It's like FSU doesn't care about us.
+
+So what? How could we fix this? First throw out the chair and the board of advisors. They don't know what they're doing. Second is the building please you're not going to recruit amazing professors if the building itself looks like it's from O-block. Third is to overhaul the entire curriculum, add systems software, software testing, python programming, web dev, and please split up Secure, parallel, and distributed computing with python. That's four courses in one and clean up comp org. It's possible to do it in one course but not the way we're doing it. Look at UF for an example they get it done correctly, and make Discrete one class, two classes is overkill it's a joke, easy A. Next is to merge the 3 departments, in turn this would create an amazing environment where students have more classes to choose from and waste less resources for the school.
+
+Please if you're a highschooler thinking to come to FSU for CS DON'T it's not worth it, unless you'd be coming here on a full ride then do it. But if you have other options like UCF, UF, or even FIU, go there trust me you'll be set up to succeed not fail.
+
+TL;DR: FSU sucks at CS right now, it could be the best in the state if we get our act together, but for now we don't. We're destined for greatness and we'll get there, but right now don't come here. I really do love this school but the way it treats computer science in general is a joke. Go Noles tho!
+
+
+Upvote
+240
+
+Downvote
+
+118
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/SnooOwls5541 avatar
+SnooOwls5541
+•
+2y ago
+Great points, I am graduating this semester and I agree with most of what you said.
+
+
+
+Upvote
+54
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/waftous avatar
+waftous
+•
+2y ago
+Same. Even the professors that teach secure, parallel, and distributed with Python don’t like it and wish it was split up. But they don’t make the rules.
+
+
+Upvote
+11
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+KnightFan2019
+•
+2y ago
+What do you disagree on?
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+boogaoogamann
+•
+2y ago
+so don’t apply? got it lol
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/SnooOwls5541 avatar
+SnooOwls5541
+•
+2y ago
+•
+Edited 2y ago
+marry kiss different makeshift depend door stocking bored crowd liquid
+
+This post was mass deleted and anonymized with Redact
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+boogaoogamann
+•
+2y ago
+Yeah but looking at all of these reasons to why the cs department sucks really deters me from going out of state at all lol
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Apion2 avatar
+Apion2
+•
+2y ago
+•
+Edited 2y ago
+As a graduating CS student I agree with about 90% of this. They dont give a DAMN about CS undergrads, they just push you to do grad school. The comments on the database and AI classes are so true (haven’t taken DBs but I’ve heard the same, and I can personally say that the AI comments are facts. We learn LISP! It’s the third oldest language in use today!)
+
+Not being able to take any scientific computing electives has always been unfortunate as well.
+
+Also yeah, the faculty you mentioned as being good are definitely the standouts. I have had Mills, Sharanya, and Bob, and they are by FAR the best professors for CS I had. They would actually answer questions in depth, and Mills specifically seemed to care a lot about actually improving the major. We really do need more like them.
+
+
+
+Upvote
+40
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/sneakyxxrocket avatar
+sneakyxxrocket
+•
+2y ago
+Schwartz needs to leave (the man got his bachelors in like 1969) I took databases with him last semester and his lectures were awful just reading from a pdf not even looking up to see if anyone was asking questions. Would never get onto his TA for not grading homework’s which were the only way to study for his exams.
+
+
+
+Upvote
+20
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+2y ago
+He unfortunately sued the school for tenure and got it in the settlement. We can’t give him no classes to teach because he takes reduced Professor responsibilities and does no research, only “teach” classes. We are stuck with him and nobody likes it.
+
+
+Upvote
+10
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+jdteacher612
+•
+2y ago
+For the sake of the program it's really nice to see they're still there. They were who you wanted to take when i was there!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/sneakyxxrocket avatar
+sneakyxxrocket
+•
+2y ago
+•
+Edited 2y ago
+Shoutout to Grigory Feudikovich not even being in the country for the software engineering class he was teaching this entire semester.
+
+
+
+Upvote
+33
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+fatteralbert30
+•
+2y ago
+Lmao fr, bro came through zoom but we had to come in person. Gimme a break
+
+
+
+Upvote
+12
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+dylandalal
+•
+2y ago
+Alumni
+Wait WHAAAAAT? That’s hilarious. Because FSU CS has a ridiculous rule about online courses, which is, side note, a little ironic for the department training software developers, where most of our jobs will have some sort of remote collaboration component after leaving FSU.
+
+
+
+Upvote
+12
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+fatteralbert30
+•
+2y ago
+Oh man I hadn't even considered that part. Yeah the joke was he was in some European country teaching this class, someone said Brazil, someone else said he was stuck in Canada? A lot of speculation and hearsay, but what I know is we have not seen Fedyukovich once this semester
+
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+dylandalal
+•
+2y ago
+Alumni
+I realized I never really finished my thought. Because they have that ridiculous rule, you couldn't just take the class online. So their compromise was to have you go to the classroom while the PROFESSOR attended remotely. That's hilarious.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/waftous avatar
+waftous
+•
+2y ago
+That class was a joke
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+2y ago
+He's not that great of a Professor, but his visa was revoked in Brazil so he's got a good reason.
+
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/sneakyxxrocket avatar
+sneakyxxrocket
+•
+2y ago
+I’ll be honest I don’t really care, I wouldn’t have signed up for that class if I’d have known the professor wasn’t going to be in person the entire semester. If he didn’t have his visa he probably shouldn’t have been allowed to teach that class this semester.
+
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+2y ago
+True, but FSU CS already runs on a skeleton crew and they wouldn’t have had anyone to swap him out with. I suppose they could’ve forced Te Yen Wu to do it again and cancel his HCI elective. They can’t exactly cancel CEN4020 since people need it to graduate. Terrible situation in general.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Indeliblerock avatar
+Indeliblerock
+•
+2y ago
+Alumni
+I graduated with an IT degree from fsu and one reason I didn’t switch to CS was because it looked like there wasn’t much support. The CCI school had plenty of support which was very very helpful. At the end of it all, I currently work as a software dev, so the degree was definitely worth it for me.
+
+
+Upvote
+18
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+2 more replies
+u/Daddy_Krabzz avatar
+Daddy_Krabzz
+•
+2y ago
+As a cs student thank you so much for putting this out here. I feel like you can’t criticize the school or bring awareness to things like on Reddit without getting criticized in this subreddit.
+
+
+Upvote
+17
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+FamousStephens
+•
+2y ago
+I was a grad student when the cheating problem emerged. Yes, it is a rampant as OP says. And what’s worse is the professors are unable to handle it. Hate to say it but go to UCF for Comp Sci
+
+
+
+Upvote
+15
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+truci
+•
+2y ago
+UCF got my degree there back in 2010 and we were direct competition with MIT and cal tech in all avenues of programming and CS competitions. The program was hard and very thorough. About 33% funked out due to the foundations exam alone. However if it’s anything like it was back then I would encourage CS at UCF above any other school.
+
+So im a bit confused and concerned about the “hate to say it but go to UCF” statement. Do you hate to say switch schools or hate the UCF program but it’s still better than FSU?
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+FamousStephens
+•
+2y ago
+I hate how I have to be honest with prospective FSU comp sci majors about what is a better program.
+
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+truci
+•
+2y ago
+Ahhh ok thanks for clarification. I was worried the school I went to back in the day might have gone to shit.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+UrBoiJash
+•
+2y ago
+What about UF? There’s is pretty highly ranked
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+FamousStephens
+•
+2y ago
+The swamp? No thanks
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+UrBoiJash
+•
+2y ago
+I mean it’s pretty high ranked and from the sounds of this post and comments it sounds a lot better lmao
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+GK71011-2
+•
+2y ago
+Undergraduate Student
+I’m a CS major, and while I am genuinely satisfied and proud of how much I learned from these classes so far, I definitely agree with many points in your post, ESPECIALLY about the professors and the TAs.
+
+
+Upvote
+12
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/cluth17 avatar
+cluth17
+•
+2y ago
+I graduated 3 years ago and was able to get a nice job in software, so it's definitely not an unserviceable program. But I agree with every point you made. You need to be doing side projects if you want to be a competitive canadite when you graduate.
+
+
+Upvote
+12
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Creepy_Angle_5079 avatar
+Creepy_Angle_5079
+•
+2y ago
+CS senior at UF rn: Its mostly the same here
+
+
+Upvote
+12
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/noledup avatar
+noledup
+•
+2y ago
+Regarding the quality of the professors, I suspect it's a challenge to hire and retain CS professors at most schools.
+
+I took one CS class when I was at FSU ten years ago. I remember the professor openly talking about how he was quitting and taking a job at a tech company at the end of the semester.
+
+Anyone with a PhD in CS from a good university could probably make much more working for a private company. I know someone who recently got a PhD in CS from CU Boulder (which is not even a top ranked school in CS). They told me their initial salary offer was $220k at big tech company in California. They didn't even have any prior job experience either.
+
+
+
+Upvote
+10
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/widget1321 avatar
+widget1321
+•
+2y ago
+Regarding the quality of the professors, I suspect it's a challenge to hire and retain CS professors at most schools.
+
+This is true. And I'll also mention that there's a lot of reasons not to go to Florida as a professor in general right now. It's better as a CS professor than, say, a sociology professor, but it would take a lot of money to get me to go to a school in Florida right now (and I'm really glad I didn't end up at one when I graduated). So, I imagine that's contributing to the problem they have getting faculty in right now.
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/mihafnamrah avatar
+mihafnamrah
+•
+2y ago
+Yes, if you have a CS degree and end up into one of the top tech companies (like the so-called FAANGs or similar in Seattle or the Bay area, you'd start at around 170-200K just as an undergrad. I personally know several FSU CS students graduated after 2020 who joined Amazon or Microsoft and are making over 250K+. Yes, most of them are grad students with MS or PhDs but I do know at least one undergraduate who joined Microsoft directly from FSU. Things have slowed down in tech currently, but that's a broad economic thing than anything to do with FSU. Once things bounce back (it may take some time) you'd be fine with a degree from FSU if you work hard to learn the basics well (at least the OOP, data structure, algorithm). Then pick up python, do some problem solving, learn the basics of ML and how to use the related python libraries. It doesn’t have to come from your coursework. There’s plenty of online resources, and one of the biggest skill of a CS major is to figure things out on your own.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+aherowon
+•
+2y ago
+Thanks for the suggestions and providing a detailed breakdown of what’s setting it back. I was a prospective grad student for the MS CS program 3 years ago. While I did like the fact that they assigned us an advisor, I decided to go to FIU instead based on course/instructor feedback and job opportunity in South Florida.
+
+The course load did not look the best if I wanted to learn about modern topics. As you said, the orgs do a lot of the heavy lifting to bring out a better CS experience. At FIU, they had an org called UPE which now branched off into INIT. They are expanding to other schools and I will try to get them to FSU as I care about the school and am an alumni. I want to see it succeed. INIT is the org responsible for creating Shellhacks if you are familiar with that hackathon.
+
+I did not know that HackFSU was no longer. First step is getting more resources for that since it will attract companies to recruit there as a suggestion. Regular workshops and mentoring to get students prepared for the workforce is the next best thing. Perhaps also speak with your class representatives, I know those parties have some say in where funds go to some extent. Best of luck on this, hope it changes for the better. Feel free to dm btw.
+
+
+
+Upvote
+10
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/DevelopmentExact554 avatar
+DevelopmentExact554
+OP
+•
+2y ago
+That would be great! I've been in contact with INIT but stopped last december just because of finals and also side projects I wanted to work on, I'm also familiar with hackathons and heard that someone wants to bring one to FSU. I don't really know much but here's the website https://spearhacks.com/ , if you want to help or sponsor it please dm me, I know the person trying to do it.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/rehluct avatar
+rehluct
+•
+2y ago
+Hackathon are so key to learning new tech . But Also probably hard nowadays to get a company to help sponsor in this economy though.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+stampadbag
+•
+2y ago
+Do MIS like me! Easy transition/transfer. Business school. Don’t know if she is still there but Professor Armstrong is one of the best.
+
+
+Upvote
+9
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+ChrisHax
+•
+2y ago
+Lacher and Leach were the heart when I went through. Their teachings still set me apart from coworkers 10yrs later.
+
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Otherwise-Mirror-738
+•
+2y ago
+I too graduated with my first bachelors back when lacher and leach were around. While lacher was horrendous at explaining the material, he was still very knowledgeable and kind wanting to genuinely help students.
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/W3NNIS avatar
+W3NNIS
+•
+2y ago
+Dang I didn’t know it was this bad, I’m at TCC hoping to transfer, now I’m unsure :/
+
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+No-Development7272
+•
+2y ago
+im gonna do tcc2fsu for cs how is it so far? Have you taken any programming classes at tcc
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/W3NNIS avatar
+W3NNIS
+•
+2y ago
+Nah just doing the pre reqs for transferring atm. It’s mad easy imo. I do have small experience coding and got some Uber basic projs tho like a calculator a todo list a weather app etc
+
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+No-Development7272
+•
+2y ago
+Idk why, but for some reason the fsu cs website it says a required prerequisite is any introductory programming class but then on the tcc2fsu path it doesn’t. Btw, have you made any friends there who are studying cs? (Sorry for the questions lol)
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/W3NNIS avatar
+W3NNIS
+•
+2y ago
+You’re chillin. Yea I noticed that, I took AP Comp sci and then also took two additional courses one intro and one intermediate at a different university out of state. In terms of friends I’ve been strictly online LMAO
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Otherwise-Mirror-738
+•
+2y ago
+Let me give my perspective being a grad student and one of the CS TAs.
+
+NOTE: I am a TA of the panama city campus, and grad student of main/Tallahassee campus.
+
+The 2 CS departments between campus' are entirely different in my view. I also have to agree with you, mostly, if we only consider the Tallahassee campus. I feel it's even worse for grad students in CS as well. As most of the professors in Tally, simply don't care. They are focused more on their research, more on recruiting grad students to their research, yet leave them hanging while many are disappointed about the lack of funding and not being paid as an RA. Some are also extremely paranoid someone will hack their research if they are out of the lab for too long (yes that is a legit concern apparently.) They also mainly want to recruit PhD students rather than master students from what I've seen, which is... interestingly odd... to be nice about it.
+
+Most of the electives, I agree are misleading and unintuitive, algorithms and deep & reinforcement learning are probably the best 2 in my opinion. Was very disappointed when I stumbled into what the AI class was really like, but D&RL made up for it.
+
+I cannot speak for the TAs in Tallahassee, but from what I've seen from the TAs and Faculty in Panama City, we/they know the material. (We actually know C++ and what a pointer is) and we do care about our undergrad students. Even when I screw up and sleep through my own office hours, which is totally my bad.
+
+The newish department of IDS (interdisciplinary data science) is actually trying to build that collaboration with the other departments, with unfortunate pushback however.
+
+There are resources and attempts in place trying to make CS better as whole, but it is being met with... lets say unfortunate pushback again...
+
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/widget1321 avatar
+widget1321
+•
+2y ago
+As most of the professors in Tally, simply don't care. They are focused more on their research, more on recruiting grad students to their research
+
+I just want to point out that this will be true at the vast majority of R1 universities. I don't know if it's worse at FSU than it was a few years ago for this, but you'll be hard pressed to find an R1 university where most of the professors care even close to as much about teaching as they do research (not talking teaching faculty here, that's different).
+
+I haven't commented on this because I'm no longer there, but a lot of OPs complaints sound valid and a lot sound like they are based on misunderstandings of how things work (or out and out OP not knowing what they are talking about, I'm still in contact with folks in the department and I know for a fact some of what OP said is just wrong). Their overall point may be correct, I'm not denying that, to be clear
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Durk2392 avatar
+Durk2392
+•
+2y ago
+I heard the Department Chair is a terrible person and is abusive and volatile.
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+2y ago
+You can participate in the CCI clubs. They would love to have some CS folks participate in them. We've had accounting students even.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+getmeoutoflatamplz22
+•
+2y ago
+spot on. the math department (applied and pure math) is also in this situation.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Born_Application_521
+•
+2y ago
+As a current CS student in my junior year, I couldn't agree with this more, the entirety of CS needs an overhaul
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Any-Significance-310 avatar
+Any-Significance-310
+•
+2y ago
+•
+Edited 2y ago
+This post has made some good points, particularly the ones about the CS course curriculum and the undergraduate electives. As somebody in the CS leadership, I would like to share that the CS department will create an anonymous poll (due out soon) that periodically solicit comments and suggestions from our students. The input from the poll will be used to drive our meeting agenda on CS undergraduate curriculum during the fall faculty workshop. To that point, I encourage all the stake holders to share your input with factual observations. If you prefer the use of reddit posts, that is fine too, but we may not be able to monitor reddit closely and frequently to receive your comments in a timely manner.
+
+For those of you who did not attend the CS award ceremony on 4/25, I would like to re-iterate the accomplishments related to our academics programs.
+
+Our staff positions have reached a total of 13, the highest number ever in the history of department. All will be filled soon. This will be a great workforce to ensure our faculty/students to go after the unprecedented activities and reach new highs.
+
+Our undergraduate enrollment reaches 1161, and graduate enrollment of 320, both are new highs in the CS department.
+
+Our specialized faculty members (Prof. Chris Mills and Prof. Melina Myers) have won two university teaching awards in the same semester. Also it is the 2nd time for Prof. Melina Myers. This is another historical accomplishment by our faculty and our students. It goes without saying that our students really love the department and these representative faculty. Ultimately, it is your recognition of our faculty that manifest into such prestigious recognition to our faculty members and our department.
+
+In the newest USNEWS graduate program ranking, the CS graduate program has jumped 14 spots to #77, another new high in the history of CS department. If you dig a little deeper into the details, you may realize that we achieve that with 25 tenure-track faculty and 6 specialized faculty members, while both UF and UCF have around 60 total faculty members each. 
+
+Regarding the support for ACM events, as Prof. Sharanya Jayaraman announced during the CS Award Ceremony, the Spring 2024 "Great Give" event has raised $3785, enough for quite a few more ACM events in the next some years/semesters. Those of you at the event may still remember the number of years or semesters mentioned in her statement. In any case, I have checked with CS chairs in the past few years and was told that all ACM requests were accommodated as allowed by CS resources in the past. I would encourage ACM leaderships or any CS student event organizers to raise their needs to the CS Chair or other leaderships for possible accommodation. In fact, we need you to raise such student needs because they are usually most welcomed by our donors, and can be established as the future themes for FSU "Great Give" events.
+
+Since there were some sentiments about some of our faculty members, I would like to add a bit more. In the past academic year, Prof. Christopher Mills was appointed as the deputy director of undergraduate studies, and Prof. Sharanya Jayaraman the Chair of Undergraduate Curriculum Committee besides the ACM and ICPC events she has been passionate about. These appointments were made to increase their leadership roles in the department, and were happily agreed in Summer 2023. Prof. Bob Myers has been a tremendous contributor in our undergraduate and graduate programs. He decided to take a break from the TA supervisor position from FY24 and still helped greatly as an advisor. I listed these arrangements to encourage our students to focus their comments on issues they have the best knowledge, particularly the CS courses and electives. There could be a lack of first-hand knowledge for students to comment on departmental arrangements and other politics for our faculty. Comments based on anecdotal evidence may not reflect well on our faculty/staff/students who work very hard to to serve our duties and grow our careers, or all the stakeholders who care deeply about our CS department.
+
+Finally, please share your thoughts and ideas with concrete facts via any channels you prefer. Go Noles, the CS family at FSU!
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/DevelopmentExact554 avatar
+DevelopmentExact554
+OP
+•
+2y ago
+From what I've heard, the CS department is trying to now head in the right direction. It's only a matter of time before we're good again. I'll most likely do another update on the state of the department next year or when there has been a significant change to the department. Go, Noles!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+TheClimber7
+•
+2y ago
+Sad to hear about HackFSU being gone. I used to organize TechNole events and the 2020 HackFSU, and it was super hard to get people involved. Like we would host events with companies for workshops and recruitment, and it was hard to get more than 30 people.
+
+But yeah the CS has been in decline for a while, IT got the Innovation center while we had that building with mold 🤷‍♂️
+
+Mills, Melina, and Sonia were great and actually seemed to care about students having great careers afterwards.
+
+While the individual program is not great, you will probably have better chances than any other school in Florida except UF and UCF just because the school is ranked high. At least it opened some doors for me 🤷‍♂️
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/wired-one avatar
+wired-one
+•
+2y ago
+Holy shit, Bob Myers is still teaching C++
+
+I took his class in 2001.
+
+I'll agree with you on all of the cs comments that you made. I will disagree with you on the engineering comments that you made. The engineering school's curriculum was piss poor until about 10 years ago. There was no industry integration for computer engineering. It was a hodgepodge of ideas and branched off of electrical engineering.
+
+The IT program is great. CCI has made great strides to create several programs that are relevant, up to date and useful in today's world.
+
+I would agree with you about going to UCF for CS. The program there is really good.
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/TerminatioN1337 avatar
+TerminatioN1337
+•
+2y ago
+Comp Sci, 2019
+Really not surprised. Been headed this way for awhile IMO. I probably have old posts on here from years back with the same complaints about the faculty and curriculum (save the few same instances you mention).
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+mrtweezles
+•
+2y ago
+•
+Edited 2y ago
+Research and securing funding is the primary goal/purpose of any university's tenured professors. Full stop. Teaching is a thing they have to do, contractually, sometimes. That's why "Teaching Faculty" (non-tenure track) positions exist: to teach undergrads the basics of the field. This is the open secret that many students do not understand, and it negatively colors their impression of what "getting a degree" should be.
+
+Probably the biggest complicating factor, however, is that fact that CS is an absurdly broad discipline. It is literally impossible to provide a full-breadth education that caters to every student's desire to learn about their niche interest, at least during undergrad. That is why the undergrad education focuses on the fundamentals: if you know the fundamentals, you are capable of learning the advanced (current) state of the industry.
+
+As one example, let's talk about AI. It's hot right now. It's been hot before. And then it cools. And then the cycle repeats. What happened last cycle? How about the one before that? What were the original ideas? How were they implemented? What mistakes were made along the way? If you can't answer any of those questions, you are going to be repeat all the same mistakes of the past and waste a lot of your time and an employer's money, no matter how good you are with Python and whatever the hot new AI framework is this week.
+
+Oh, and the material is hard and you will have to put in work. Paying for college is merely an opportunity to earn a degree.
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Programmer-Gullible avatar
+Programmer-Gullible
+•
+2y ago
+I just had an hour long convo with my advisor today talking about dual majoring in CS so this was very disheartening to read. I’m on a full ride so debt isn’t really an issue, I really just want something to supplement my IT degree since I think it won’t look great on its own. Now it feels like I’d be digging my own grave if I go with it. Thank you for the heads up.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/widget1321 avatar
+widget1321
+•
+2y ago
+You'll have more opportunities if you do the dual major. OP is making it sound like the degree is worthless, but it's really just that the department is lacking compared to where it should be, from my understanding.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/RipeQuetzalcoatyl_08 avatar
+RipeQuetzalcoatyl_08
+•
+2y ago
+My friend currently studies there (computational science) and all the points you have mentioned are spot on according to him.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+ravrett
+•
+2y ago
+•
+Edited 2y ago
+A lot to unpack here, but you need to be an active participant in your coursework. My advice to any student is do not depend on anyone to teach you anything. Too many students come into CS thinking they are going to learn to code too. You won't. You will learn theory and engineering concepts that will enable you to digest complex instructions and solve problems with logic. You need to learn to code on your own time. Seriously. You will need a portfolio when you graduate anyway.
+
+For reference, I am an online student through the PC campus with one more elective before graduation. I have none of the issues you describe. In my mind, the building you are in makes no difference. If there are safety and health issues, you might want to address that, but the university has been around a very long time. There are definitely old buidlings on the Tally campus.
+
+All my professors are/were incredible and to a tee, they all care. A lot. They are all talented and knowledgable and one of things I really enjoyed was the varied experiences they each brought with them. I had an issue with one professor, but it wasn't that he did not know what he was talking about. He is actually one of the brightest people I think I have ever met. It was that his teaching style was not compatible with my learning style. I had to adjust. That happens sometimes. Even though he was great, I am reminded of another professor who told one of his students once that good students overcome bad professors. His reasoning? There are always bad professors, just like any profession, but there are also always students with perfect scores. Those students overcame a bad professor somewhere along the way to getting a degree.
+
+All my TAs have been great too, but I do not lean on TAs much. When I have needed them, they have all given me their time and worked with me to resolve whatever issue I was working on. No complaints at all. And some have been downright incredible. I had one TA, Derek Yohn, who is now teaching special topics. I think I owe that guy a beer or two for what he has contributed to my education.
+
+The last thing I would say is that I have no idea what is going on at FIU, UF, UCF, MIT or anywhere I am not attending. So how can you recommend those schools unless you have attended? Nineteen year old students are very impressionable and nervous about the decisions they are making in the coming months. You have outlined a horror story that is not everyone's experience, and some of it doesn't even seem relevant to me. I think we could all grumble about something, as students are prone to do, but you should take charge of your learning and cut out the noise around you. Focus on you and your learning. Code constantly. And remember, somewhere at UCF, there is bound to be a student that is not happy with the CS department there either. Your learning experience truly is what you make it. Stay positive my friend.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+2y ago
+For real.... Derek's office hours where he broke down all the tips and tricks for parsing input in C is probably the most useful 2 hours of learning I've had in my time at FSU. It's not trendy, it's not sexy, it's just straight up USEFUL. That can also be said of a lot of the subject matter. The degree is solid in its fundamentals. You need good fundamentals in order to succeed in anything at the cutting edge.
+
+I will say, every one of the professors I had in the FSU computer science departments, both online and in person, even the ones who have a reputation for being prickly, were incredibly helpful to me in office hours and generally being encouraging outside of class.
+
+There is some admin BS that's part and parcel of being a small piece of a ginormous university. Staffing is rough right now and many people are wearing 2 and 3 hats, taking on more than they should to try to keep everything going. It's as out of their control as it is out of yours' or my control and they're doing their best.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+boxed_lunchable
+•
+2y ago
+Best decision of my life was changing my major from CS to IT in CCI. From lackluster support and god awful professors, it was like a breath of fresh air and felt like I found my place. CS is a very valuable degree but please for the love of god go anywhere else but here. IT works just perfectly for me because I want to go UX design or web dev, no need for me (a dummy) to be in calc 3 and discrete math. I also have time for my personal life with hobbies, friends, and plenty of time for side projects/certs. Highly recommend IT at FSU, but the CS department is in shambles.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Difficult_Song_1555
+•
+1y ago
+Can I send you a dm? I have a few questions. 
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+plamck
+•
+2y ago
+Honestly the more I read this, the more like I felt like I agreed. Some of our professors are beyond useless.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+el-perdido
+•
+2y ago
+I graduated from FSU CS in '14, and I loveeeed everything about the FSU CS program at the time. It's heartbreaking to read this. Lmk if there's anything I can do to help.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Smooth770 avatar
+Smooth770
+•
+2y ago
+Undergraduate Student
+As a current CS student, just based on my experiences, your post had PASSION, VISION, AGGRESSION, and a fucking MINDSET. Well said 👏
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+ender_artz
+•
+2y ago
+Im currently a junior going into senior year at FSU for CS, do you think that there’s still a chance that the degree will help me get a job in the future? Or did i just pay thousands of dollars for a piece of paper that doesn’t mean anything?
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Conzi_
+•
+2y ago
+Class of 2016
+The degree is still pretty much a necessity, but your ability to get a job will largely on the projects, internships that you do in your free time, and your ability to solve coding questions.
+
+The criticisms of the post are definitely fair, and we should demand better. However, one positive is that FSU has name recognition, especially outside of the state. Whereas a lot of non-Floridians won't have ever heard of some of the other Florida schools, in my experience
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+TheMightyYule
+•
+2y ago
+•
+Edited 2y ago
+Here’s something you don’t know about building funding: EOAS fought tooth and nail for that building for DECADES and consistently brings in some of the highest levels of funding of any department. Before they got their shiny new building (which for whatever reason every CS student bitches and moans about), they were spread through 4 different deteriorating buildings on campus. The building is not “empty”, it is full of…gasp geoscience labs that bring in a ton of funding for the university. CS has NOTHING to do with Earth, Ocean, and Atmospheric Sciences. And guess what? The atmospheric sciences part used to all be housed in the Love building, so we know it’s shitty, but this is how funding works.
+
+Honestly, I don’t really care about state of CS given that it’s not relevant to me, but god am I fucking over these CS students thinking they’re somehow entitled to this shit.
+
+
+
+Upvote
+13
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Trikzon
+•
+2y ago
+Computer Science (BS), 2025
+Also, as a CS major I’ve had classes the EOAS building. My favorite building on campus, and I am a bit jealous of it, but it is definitely well deserved and I’ve gotten benefits from it too
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+6 more replies
+0xNe0
+•
+2y ago
+Is the situation same for graduate students?
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+helluvo
+•
+2y ago
+switched from CS to IT, the difference was crazy.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+ErickRisk12
+•
+2y ago
+what differences did you notice?
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+helluvo
+•
+2y ago
+specifically regarding some stuff OP mentioned, first off, the facilities are much better. the shores and williams-johnston building where most of my classes are held are newer and very well-kept. lots of study places in johnston and the innovation hub is in the shores building, they have 3d printers, gaming pcs, virtual reality equipment, just a lot of cool stuff to either help you with your classes or just for you to have fun with. a big upgrade from the rundown Love building. also, faculty seems to really care and want you to succeed. specifically would recommend the IT Leadership class with Randeree, he’s a great teacher and gives you access to tons of resources. my advisors in CS were super nice, but i especially love my advisor Chris New, he’s very helpful and personable. even the harsher teachers in the dept (won’t name any names lol) emphasize their desire for you to succeed. overall, I just felt like I was less on my own in IT, the teachers are very good at reaching out and making resources known to students. curriculum wise, some might disagree but I found IT to be much easier. The benefits are a smaller yet still challenging load of coursework and if you are anything like me, less math lmfao.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/BroncoBust3r avatar
+BroncoBust3r
+•
+2y ago
+I graduated in 2019, but my last few semesters I had some of the worst experiences with CS professors. Had TA’s give me 0’s and when I ask the professor to review suddenly I had 90’s in the grade book, no clue what they were even doing. When I took Algorithms we would ask the teacher to solve questions from the homework and he’d say “Hm yes that’s a bit difficult, let’s skip it I won’t ask such a question on the exam”, then why put it?? Sad to hear it seems like things are following that trend.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Forward-Nature-648 avatar
+Forward-Nature-648
+•
+2y ago
+THIS IS SO TRUE… the reasons why i changed my major from CS. they truly don’t care about you at all, and make it virtually impossible to actually learn. i used to go to office hours for C++ and they would never help me. they would just say that was something i should know but like- that’s why im at office hours? idk it was just extremely discouraging
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Chelzvea
+•
+2y ago
+I second all of this. As a graduating senior. It was awful
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+rektinator420
+•
+2y ago
+As a CS Senior at FSU, i agree! half, if not most of the classes i’ve taken here aren’t structured properly and are complete jokes
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+mattechenique
+•
+2y ago
+You nailed my frustrations for the past year right on the head
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+MarcelfromCombray
+•
+2y ago
+I am in a Philosophy PhD program is New York. Shit is the same. We have similar structural problems and the grading is arbitrary. Not simply in terms of the arguments made; a conservative professor may not like liberal argument but that is normal bias and it happens. But some people can get grades for assignments they have completed and others complete assignments that don’t get graded. Not CS, but the problem is largely the same.Also tons of plagiarism and there is professor that steals students work.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/lovely_unicorn923 avatar
+lovely_unicorn923
+•
+2y ago
+I would also like to add to this that the chair of CS gets mad when you don’t want to be in their scholarship program that basically pays for u to get ur masters in CS at FSU for free.
+
+Why would I stay an extra 2 years to retake the same classes from undergrad? Like make it make sense.
+
+I really regret not switching to being an IT major, their classes looked more fun.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+jdteacher612
+•
+2y ago
+I got a D in OOP with Myers a while ago now. He did the Diamond assignment instead of Triangle and I couldn't get the triangle to reverse print to complete the diamond. That assignment tanked my grade and I got a D instead of a by-the-skin-of-my-teeth C
+
+I was so pissed. Don't do Computer Criminology either (if that's what it's still called). From my personal experience you don't have the mathematical background to succeed in CS classes.
+
+Do people still talk about how Bob and Melina met??? That was juicy gossip when i was in undergrad lmaooo.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/rehluct avatar
+rehluct
+•
+2y ago
+Yeah I graduated 2018 but it was obvious that fsu didn’t take cs serious then. Not surprised it has deteriorated that much.But at least some interesting electives , androids dev , python class, competitive programming, data mining , and it class lol. Also the foundational course all for except operating system were pretty solid and has helped greatly in my career and in my opinion better taught then most schools in the U.S. Crazy to me hackathon is not happening anymore when I started it use to be pretty big and fun, but then toward the end I noticed a decline. So I also think I has to do with student involvement cause I did notice kids stop showing up to events through out the years. If people don’t go I imagine the administrators are like no wants this. …. Sorry for the grammar wrote this with my fat fingers on my small ass iPhone lol.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/waftous avatar
+waftous
+•
+2y ago
+One thing I want to add about the international students is that not enough US students apply. A faculty member who works with grad admissions told me that over 90% of their applications are international. If you have a good GPA they will reach out to you around Junior year begging you to apply because they want more native students.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Mrow-mix avatar
+Mrow-mix
+•
+2y ago
+Comp Sci BS, 2021
+I definitely agree as a grad from a few years ago. I'd still sort of recommend it if it's one of your only choices (due to location, money, etc), but there's absolutely better schools out there if you have the opportunity. IMO it does teach good core skills of programming, but it's not very modern for today's software engineers. I think the faculty is pretty good, especially the core teachers such as Sharanya, Bob Myers, and Chris Mills.. but they get gutted by pressure of high volume classes, funding, and the chaos of some of the students. (IYKYK...) As someone who was apart of ACM leadership, it's kinda hard to keep a CS club consistent due to attendance especially after COVID.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/DevelopmentExact554 avatar
+DevelopmentExact554
+OP
+•
+2y ago
+As someone who's part of ACM leadership I completely get it, we're trying to give students resources but it's hard when even at Tallahassee the cs department has a bad rep.
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+No-Development7272
+•
+2y ago
+Oh god… im doing tcc2fsu for CS. I personally like IT better but I wanted to get a CS degree because it’s more broad. It can’t be that bad.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+fishcakesshake
+•
+2y ago
+Im a computer engineering student and fully agree with everything you said. Any CS majors who don’t know already, you can participate in any of the clubs at the college of engineering! A lot of them are great and have more support than the CS clubs from what I’ve seen, lots of good professional development stuff too.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Maleficent-Ad-7350 avatar
+Maleficent-Ad-7350
+•
+2y ago
+I am a student at the Panama City Campus working towards a BS in Computer Science. Despite not having a strong background in CS when I entered the program, I have gained a lot from it. My primary professors are excellent, and I have learned a great deal so far. To maintain my A's and B's, I still need to study and research independently.
+
+One area where I feel the program could improve is in its coverage of recent developments in AI. There are no electives available for machine learning or deep learning, which I am interested in and plan to learn on my own. Overall, FSU is a good state school in Florida, and I highly recommend the PC campus for a CS degree.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Eidea avatar
+Eidea
+•
+2y ago
+Dude this is the post I've been looking for. I'm a double major, BA CS and BM Music Performance, and having that comparison shows me just how bad the CS professors are. My music classes are engaging, I actually learn material and I can ask questions without being worried about being shit on. In comparison my CS classes are so awkward, nobody talks and if someone asks a question it's like they shattered part of the atmosphere. I agree that the professors you mentioned were some of the best (ESPECIALLY Ruddell, he was fantastic), but all the others I struggle to stay awake for. Most of my learning at FSU came from YouTube, and there's basically no point in going to most classes. I feel like I'm going to need to do a coding bootcamp to up my skills before applying to jobs because I do not feel prepared in the slightest, despite only having software engineering left.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Area-Unlucky
+•
+2y ago
+So what should I opt for instead of CS? I'm an international student (Class of 2029). I'm thinking of FSU because it's cheap with the OOS waiver scholarship available for international students. Which majors other than CS do you guys recommend me applying for? IT, Data Science, Comp Eng, Business Analytics? Thanks for helping
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Gypsymom317 avatar
+Gypsymom317
+•
+2y ago
+Daughter is a sophomore and looking for a 1-1 tutor for c++ coding and calculus 2 - any recommendations ? On site resources are not adequate or conflicting with her schedules. Thanks !
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Warm_Effect2848
+•
+2y ago
+Hi, i got accepted for MS CS spring 2025 with full TA support. Is it worth it to spend 2 years here? Or should i look to rather apply to other universities in Fall?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/tdmmm avatar
+tdmmm
+•
+2mo ago
+What building had mold in it? Wondering because I was in CS at FSU and have mold related illness issues now
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ZileanDifference avatar
+ZileanDifference
+•
+2y ago
+Undergraduate Student
+I'm sorry but Sharanya sucks. I've never had a good conversation with her.
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+4 more replies
+Turbulent_Pen1047
+•
+2y ago
+It’s ok, AI is coming for it all soon enough.
+
+
+Upvote
+-4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+2y ago
+My son-in-law’s CS from Stanford has allowed him over 200k straight off the Farm. His company based in NYC was bought out and he went in with his moneys and partnered with local doctors to develop another company that has him earning more. A good school means a lot. (He graduated in 2018) lives in Florida while my Daughter (Stanford grad too finishes her medical school) and works here and can commute to NyC when needed. Work hard -don’t be lazy- study and party later is my advice.

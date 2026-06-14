@@ -1,0 +1,100 @@
+BS Degree Program Mission, Educational Objectives & Student Outcomes
+ 
+
+ 
+
+The following information is applicable from Fall 2024. For previous information please check this link.
+
+The primary mission of the undergraduate program in Computer Science is to provide a high-quality education. To this end, the department continually seeks to strengthen the faculty and the curriculum to ensure that students are well prepared for careers in the evolving field of Computer Science.
+
+The Computer Science department’s Bachelor of Science in Computer Science degree program is accredited by the Computing Accreditation Commission of ABET, under the commission’s General Criteria and Program Criteria for Computer Science. ABET is the recognized accrediting body of college and university programs in engineering, computing, technology, and applied science.
+
+Our BS CS program is characterized by Program Educational Objectives and Student Outcomes. Program Educational Objectives (PEOs) describe broad, high-level goals that graduates of a program are expected to achieve within a few years after graduation, focusing on professional accomplishments and personal development rather than specific skills learned by graduation. Program educational objectives are based on the needs of the program’s constituencies. The constituencies of the Department of Computer Science at FSU are its faculty, alumni, and the industry. The industry’s input is represented by the Board of Advisors, which includes several industrial leaders. The student outcomes define the criteria that prepare students to attain the program objectives.
+
+The department periodically assesses and evaluates the BS curriculum for consistency with each student outcome and educational objective with the goal of ensuring that each student outcome can be attained. This regular evaluation is used to identify program weaknesses, put improvements in place, and re-evaluate the effectiveness of those improvements, resulting in continuous improvement of the program. This assures that our students receive a high-quality education.
+
+Departmental Mission Statement
+To strive for excellence in advancing, applying, and imparting knowledge in computer science through comprehensive educational programs, research in collaboration with industry and government, and dissemination through scholarly products;
+To produce outstanding computer science professionals who have the fundamental knowledge, problem-solving skills, and life-long learning capability to advance their careers;
+To disseminate computer science knowledge to students and professionals in other disciplines, and
+To provide service to the university community, professional societies, local communities, the state, and the nation.
+The program educational objectives for the Bachelors of Science degree program in Computer Science is to produce graduates who will:
+
+Goal 1: Problem Solving and Communication
+Engage in the practice of computer science to identify and solve significant problems across a broad range of application areas and communicate these solutions professionally.
+Goal 2: Theoretical Foundations
+Solve complex problems using sound theory and the underlying foundational principles of CS.
+Goal 3: Impact and Responsibility
+Be a responsible professional by considering the impact of computing on society, and the ethical and social implications of one’s actions.
+Goal 4: Life-long Learning
+Adapt to new technologies, tools, and methodologies to remain current in the field of CS.
+BS in CS Program Student Outcomes
+ABET/CAC Outcomes
+(Note that SACSCOC/SMALC outcomes are defined below, after these outcomes.)
+A1. Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.
+SMALC/SACS outcome: SA
+
+A2. Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+SMALC/SACS outcome: SB
+
+A3. Communicate effectively in a variety of professional contexts.
+SACSCOC/SMALC outcomes: SC, SD
+
+A4. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+SACSCOC/SMALC outcome: SE
+
+A5. Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+SACSCOC/SMALC outcome: SF
+
+A6. Apply computer science theory and software development fundamentals to produce computing-based solutions.
+SACSCOC/SMALC outcome: SG
+
+The acceptance and use of the program educational objectives and student outcomes of the BS degree program are periodically assessed by the CS faculty, by the CS Board of Advisors, and by the officers of the FSU ACM Student Chapter.
+
+SACSCOC/SMALC FSU Institutional Effectiveness Outcomes
+The Florida State University is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC). The accreditation standards require the use of the State Mandated Academic Learning Compacts (SMALC) to define the student outcomes.
+The SACSCOC/SMALC outcomes SA to SF to attain the learning outcomes listed below:
+
+SA) Programming Competence: Upon completion of the program, the student will be able to analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+Assessment: A programming assignment in COP4530.
+
+SB) Software Engineering: Upon completion of the program, the student will be able to design, implement, and evaluate a computing-based solution to meet a given set of computing requirements.
+Assessment: capstone group project in CEN4090L.
+
+SC) Oral Communication: Upon completion of the program, the student will be able to communicate effectively orally in a variety of professional contexts.
+Assessment: an oral presentation assignment in CEN4020.
+
+SD) Written Communication: Upon completion of the program, the student will be able to communicate effectively in writing in a variety of professional contexts.
+Assessment: two written essay assignments in CEN4020.
+
+SE) Ethics and Responsibility: Upon completion of the program, the student will be able to recognize professional responsibilities and make informed judgements in computing practice based on legal and ethical principles.
+Assessment: exam questions in CIS3250.
+
+SF) Teamwork: Upon completion of the program, the student will be able to function effectively as a member or leader of a team engaged in activities appropriate to Computer Science.
+Assessment: capstone group project in CEN4090L.
+
+SG) Theory and Practice: Upon completion of the program, the student will be able to apply computer science theory and software development fundamentals to produce computing-based solutions.
+Assessment: an assignment in COT4420.
+
+The SACSCOC/SMALC outcomes for the BS degree are related to the ABET/CAC student outcomes as follows.
+
+SACSCOC/SMALC FSU Institutional Effectiveness Outcomes	ABET/CAC mapping
+SA. Programming Competence	A1
+SB. Software Engineering	A2
+SC. Oral Communication	A3
+SD. Written Communication	A3
+SE. Ethics and Responsibility	A4
+SF. Teamwork	A5
+SG. Theory and Practice	A6
+Undergraduate Enrollment and Degrees Awarded
+Academic Year	BS in CS Enrollment	BS in CS Degrees Awarded
+2024-2025	815	TBD
+2023-2024	751	147
+2022-2023	726	138
+2021-2022	679	133
+2020-2021	635	166
+2019-2020	604	152
+2018-2019	610	152
+2017-2018	606	127
+2016-2017	619	100
+2015-2016	548	97

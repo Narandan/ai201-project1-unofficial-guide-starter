@@ -41,13 +41,13 @@ FSU Computer Science department — professor teaching styles, course difficulty
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-     Chunk size: 400 characters
-     Each review is short and self-contained — the useful signal is in one paragraph. 400 characters captures a full review with its metadata (course code, ratings) without merging two separate reviews together.
+Chunk size: 400 characters
+Each review is short and self-contained — the useful signal is in one paragraph. 400 characters captures a full review with its metadata (course code, ratings) without merging two separate reviews together.
 
-     Overlap: 50 characters
-     Small overlap because reviews are independent — you don't need much continuity between them. Just enough to catch a review that gets clipped at a boundary.
-     
-     Reasoning: The documents are review-style text where each unit of meaning is one student's opinion about one course/professor. Larger chunks (800+) would merge multiple reviews, diluting specific claims. Smaller chunks (100-200) would split a single review across two chunks, making neither retrievable on its own.
+Overlap: 50 characters
+Small overlap because reviews are independent — you don't need much continuity between them. Just enough to catch a review that gets clipped at a boundary.
+
+Reasoning: The documents are review-style text where each unit of meaning is one student's opinion about one course/professor. Larger chunks (800+) would merge multiple reviews, diluting specific claims. Smaller chunks (100-200) would split a single review across two chunks, making neither retrievable on its own.
 
 ---
 
@@ -80,7 +80,7 @@ Production tradeoff reflection: For production I'd weigh OpenAI's text-embedding
 | 2 | Is attendance mandatory for Andy Wang's COP4610?                   | No — multiple reviews list attendance as "Not Mandatory"           |
 | 3 | Which FSU CS professors do students recommend most?                | Mills, Jayaraman, Sonia, and the Myers are mentioned positively in the Reddit thread |
 | 4 | What are students' biggest complaints about the FSU CS department? | Not enough professors, limited/irrelevant electives, poor TAs, outdated coursework, underfunded |
-| 5 | What do students say about Xin Yuan's course difficulty?           | Should be in your rmp_yuan_xin.txt — we'll verify this is answerable |
+| 5 | What do students say about Xin Yuan's course difficulty?           | Courses are rated 4-5 out of 5 difficulty, described as very time-consuming with lots of homework, but students report learning a lot |
 
 ---
 

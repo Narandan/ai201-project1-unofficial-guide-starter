@@ -9,9 +9,6 @@ Attendance: Not Mandatory
 Grade: A
 Textbook: N/A
 The class while take up 90% of your time. Now AI can probably solve most of the assignments, but back when I took it, AI wasn't as helpful. Ended up learning a lot but at the cost of a lot of effort and investing time.
-EXTRA CREDIT
-Group projects
-Lots of homework
 
 Quality
 5.0
@@ -50,9 +47,6 @@ Would Take Again: Yes
 Grade: Not sure yet
 Textbook: N/A
 Bro is the goat 🐐, not much else to say
-EXTRA CREDIT
-Amazing lectures
-Lots of homework
 
 Quality
 5.0
@@ -66,9 +60,6 @@ Would Take Again: Yes
 Grade: A
 Textbook: N/A
 He's the best! Had him for cop4530 and cop4521 and he's easily my favorite computer science professor at florida state. His lectures are interesting if you actually pay attention and participate and he's super friendly. he also responds to emails quickly and gives extra credit in assignments.
-EXTRA CREDIT
-Caring
-Accessible outside class
 
 Quality
 2.0
@@ -80,9 +71,6 @@ Attendance: Not Mandatory
 Grade: B
 Textbook: Yes
 This class is insane hard if you are not expert in C.
-Tough grader
-Lots of homework
-Test heavy
 
 Quality
 5.0
@@ -96,8 +84,6 @@ Would Take Again: Yes
 Grade: A
 Textbook: Yes
 Easygoing guy who tries to help during office hours or through email. LOTS of extra credit, I finished with above a 100 in the class. This class, for me, was easier than 3330 with Myers, so as long as you are comfortable programming in C++, the class is a breeze to pass, just make sure you reserve plenty of time to actually do the projects.
-EXTRA CREDIT
-Caring
 
 Quality
 3.0

@@ -9,13 +9,7 @@ Attendance: Mandatory
 Would Take Again: Yes
 Grade: A
 Online Class: Yes
-Gaitros' class can be a mixed bag - lectures aren't always the most helpful, but he's responsive to emails and the assignments/exams are doable. Unstuck AI and YouTube videos were key for me. Overall, a solid class if you put in the work.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
+Gaitros' class can be a mixed bag - lectures aren't always the most , but he's responsive to emails and the assignments/exams are doable. Unstuck AI and YouTube videos were key for me. Overall, a solid class if you put in the work.
 
 Quality
 5.0
@@ -30,13 +24,6 @@ Grade: A
 Textbook: Yes
 Online Class: Yes
 Dr. Gaitros is the best. I took this class online with ZERO prior programming experience, but it worked out for me because his lecture videos are detailed and build C++ concepts from the bottom up, but are also concise and clear enough to not waste any time. I am now in CDA 3100 with another prof but I'm using his YouTube videos to teach myself.
-Clear grading criteria
-Caring
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.0
@@ -50,13 +37,6 @@ Would Take Again: Yes
 Grade: A
 Textbook: Yes
 He is very responsive to emails, exams were really easy in my opinion just watch his videos (not just the ones he posts on canvas, but go on his youtube channel). Assignment descriptions are really vague so depending on your TA it's quite easy to lose points. overall not bad, give yourself plenty of time to work on assignments though
-Accessible outside class
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 3.0
@@ -70,15 +50,7 @@ Would Take Again: Yes
 Grade: A
 Textbook: N/A
 Online Class: Yes
-Gaitros is an alright professor. The lectures were not very helpful so be prepared to teach yourself many of the concepts. Also, the HW instructions were not the best and were hard to follow. As for tests as long as you do the projects and understand what you are doing you will get a good grade. Overall, not a bad teacher.
-Get ready to read
-Caring
-Accessible outside class
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+Gaitros is an alright professor. The lectures were not very  so be prepared to teach yourself many of the concepts. Also, the HW instructions were not the best and were hard to follow. As for tests as long as you do the projects and understand what you are doing you will get a good grade. Overall, not a bad teacher.
 
 Quality
 4.0
@@ -93,15 +65,6 @@ Grade: A-
 Textbook: Yes
 Online Class: Yes
 David Gaitros was a pretty understanding instructor. Many assignments and tests contained typos and errors, but he was willing to make changes and return points if these things were pointed out to him. The weekly coding challenges got progressively more difficult but weren't too challenging. He gave extra credit at the end of the semester.
-EXTRA CREDIT
-Caring
-Accessible outside class
-Helpful
-Thumbs up
-0
-Thumbs down
-1
-
 
 Quality
 5.0
@@ -116,14 +79,6 @@ Grade: A
 Textbook: Yes
 Online Class: Yes
 He is very passionate about computer science! He was upfront about the workload required at the beginning of the class and set clear expectations. While the course is rather difficult if you show interest and ask questions, he will be more than happy to give extensive help to anyone who asks. Amazing teacher!
-Participation matters
-Clear grading criteria
-Inspirational
-Helpful
-Thumbs up
-2
-Thumbs down
-0
 
 Quality
 1.0
@@ -137,12 +92,6 @@ Grade: A-
 Textbook: Yes
 Online Class: Yes
 I have taken several of Dr. Gaitros' online courses and they are all dumpster fires. The lecture material is barely existent and feels like it was slapped together as an afterthought. Example problems are also the same. No teaching occurs in this course. Use it as a list of topics to learn on your own. I AM DISAPPOINTED I GOT SUB-PAR CLASSES!!!!!
-Helpful
-Thumbs up
-3
-Thumbs down
-2
-
 
 Quality
 2.0
@@ -155,11 +104,6 @@ Attendance: Not Mandatory
 Grade: A-
 Textbook: N/A
 I've taken a couple of his classes now, and they all pretty much have the same issues. The lectures and material overall is very scattered and hard to follow. He's not great at explaining things but is usually willing to help if you ask. If you take a class of his, just skim through his lectures and watch youtube videos if you really wanna learn.
-Helpful
-Thumbs up
-2
-Thumbs down
-1
 
 Reviewed: Nov 22nd, 2022
 Quality
@@ -174,13 +118,7 @@ Would Take Again: Yes
 Grade: Rather not say
 Textbook: No
 Online Class: Yes
-His online course material is scattered. However, he is extremely personable and helpful. Show him that you care. Go to his office hours prepared with questions and you'll do fine. You'll be writing a lot of code from scratch so it'll be time consuming and buggy. Gaitros understands that and wants to help you succeed, in class & life.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
-
+His online course material is scattered. However, he is extremely personable and . Show him that you care. Go to his office hours prepared with questions and you'll do fine. You'll be writing a lot of code from scratch so it'll be time consuming and buggy. Gaitros understands that and wants to help you succeed, in class & life.
 
 Quality
 4.0
@@ -195,14 +133,6 @@ Grade: A+
 Textbook: No
 Online Class: Yes
 A very good professor in my eyes. He is very experienced with his work and in teaching as a whole. His class in Object-Oriented Programming was well thought out, the assignments were fair and taught us students the material. His videos on Canvas and on his YouTube channel were a big help, one of the best lectures out there. I enjoyed the class.
-Inspirational
-Clear grading criteria
-Amazing lectures
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 1.0
@@ -216,13 +146,6 @@ Would Take Again: No
 Grade: Not sure yet
 Textbook: No
 Doesn't teach, terrible structure to the course, and TA with an inflated ego. Avoid this class, because unless you have a lot of previous experience coding C++, then you will struggle greatly. Google is the only thing keeping me afloat, and even then it is a struggle. Grading is ridiculous and emails are left unanswered.
-Tough grader
-Helpful
-Thumbs up
-2
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -236,14 +159,6 @@ Grade: A
 Textbook: No
 Online Class: Yes
 His class isn't well organized but he is very accessible, has a lot of resources and answers every question. Gaitross is an expert and he knows the field from previous jobs. He explains the concepts multiple times and in multiple ways. You will definitely have to study to pass his class but it is definitely doable @avg level You will learn a lot.
-Accessible outside class
-Inspirational
-Caring
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 2.0
@@ -258,13 +173,6 @@ Grade: A+
 Textbook: No
 Online Class: Yes
 Went into this class with high hopes after reading these reviews. The most important things about an online course are clarity & organization. This class has neither of those! Material is all over the place & often times you will spend too much time trying to figure out what he even wants. Made an A+ because I can program but beware, Gaitros SUCKS!
-Lots of homework
-Helpful
-Thumbs up
-2
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -278,11 +186,6 @@ Would Take Again: Yes
 Grade: A
 Textbook: No
 Dr Gaitros is one of my favorite professors I had in my time at fsu. A great guy and great at teaching material. If you go to class, have a good attitude and study you will really enjoy this professor!
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -297,15 +200,6 @@ Grade: A+
 Textbook: No
 Online Class: Yes
 An instructor that figured out distance learning. His course is fine-tuned for online learning and has a concise 5-10 min video lecture on every concept he tests you on without the added fluff. Book is not needed. He will teach you everything you need to know. Comp Org is not an easy course, but he makes it tolerable and even enjoyable at times.
-Clear grading criteria
-Amazing lectures
-Caring
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 3.0
@@ -319,12 +213,6 @@ Would Take Again: No
 Grade: A
 Textbook: No
 Dr. Gaitros is a good teacher. You will get an A if you go to every class including recitation. You do not need to know anything about coding before. He will teach you. He gives out lots of code in class, which is nice. As a person he is not super nice... Often times he seemed to not want to be there and was somewhat disengaged.
-Lecture heavy
-Helpful
-Thumbs up
-1
-Thumbs down
-1
 
 Quality
 1.0
@@ -337,15 +225,6 @@ Attendance: Mandatory
 Would Take Again: No
 Textbook: Yes
 Taught the class like you already knew the material. Definitely not a good class to take if you dont know anything to begin with. Doesnt really teach it like an intro course. The test were decent, but the homeworks were hard and the TAs didnt grade hard on them.
-Lecture heavy
-Skip class? You won't pass.
-Tough grader
-Helpful
-Thumbs up
-0
-Thumbs down
-1
-
 
 Quality
 3.0
@@ -359,14 +238,6 @@ Would Take Again: No
 Grade: Not sure yet
 Textbook: Yes
 This class is not an easy A. Go to class, read the textbook, take notes, go to professor and ta hours the want to help you just make time to go.
-Accessible outside class
-Skip class? You won't pass.
-Clear grading criteria
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 3.0
@@ -381,12 +252,6 @@ Grade: A
 Textbook: Yes
 Online Class: Yes
 Essentially no feedback. A decent amount of assignments but they were straightforward and easy. He isn't a hard teacher to do well with, but I had two issues with Dr. Gaitros. First, he repeatedly ignored discussion board questions. Second, he conflicted with the book a few times, which matters when there aren't lectures to learn the material.
-Helpful
-Thumbs up
-2
-Thumbs down
-0
-
 
 Quality
 4.0
@@ -400,11 +265,6 @@ Would Take Again: Yes
 Grade: A
 Textbook: No
 Went to lecture the first week, then hardly ever after that. He will help you with any assignments after class or at office hours. Really easy to get along with, and easy to make an A if you put in the time.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
 
 Quality
 4.0
@@ -418,15 +278,6 @@ Would Take Again: Yes
 Grade: B
 Textbook: No
 Dr. Gaitros is my favorite professor I've taken so far at FSU. I was really nervous about taking Computer Org 1, since I really struggled with COP3330 (Object Oriented Programming. This class was really easy, and actually very interesting. Definitly my favorite class I've taken. Plenty of examples in class to prepare for the exam. Don't skp class!!
-Participation matters
-Amazing lectures
-Caring
-Helpful
-Thumbs up
-1
-Thumbs down
-2
-
 
 Quality
 5.0
@@ -440,14 +291,6 @@ Would Take Again: Yes
 Grade: A-
 Textbook: No
 Dr Gaitros is one of the best professors for CS at FSU. This class is fairly challenging, but if you do the work and show up for class you shouldn't have any trouble. I regret not taking more classes with him.
-Respected
-LOTS OF HOMEWORK
-BEWARE OF POP QUIZZES
-Helpful
-Thumbs up
-2
-Thumbs down
-2
 
 Quality
 4.0
@@ -460,15 +303,6 @@ Would Take Again: Yes
 Grade: A+
 Textbook: No
 Dr. Gaitros is a really good teacher. Sure, the class is lecture heavy, but what else would it be since it is all about computers? There is a lot of homework and it can be heavily piled up and due on one day if you do not take the time to complete before. Assignments are easy, just do them! Does not accept late work. Attendance is not mandatory!
-Respected
-LOTS OF HOMEWORK
-LECTURE HEAVY
-Helpful
-Thumbs up
-0
-Thumbs down
-1
-
 
 Quality
 3.0
@@ -483,14 +317,6 @@ Grade: A
 Textbook: No
 Online Class: Yes
 Just do all the assignments on time and you will pass!
-LOTS OF HOMEWORK
-ACCESSIBLE OUTSIDE CLASS
-Clear grading criteria
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -504,15 +330,6 @@ Would Take Again: Yes
 Grade: A
 Textbook: Yes
 The only reason people hate on him is because there is a lot of homework but you do it at your on pace and he will even do the assignment in class sometimes. One of the easiest classes Ive ever taken
-LOTS OF HOMEWORK
-Inspirational
-Hilarious
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 4.0
@@ -526,12 +343,6 @@ Grade: A+
 Textbook: Yes
 Online Class: Yes
 This class has a TON of busy work but it is super easy. The exams are the exact questions, word for word, from the quizzes. The quizzes have an unlimited amount of attempts. Only annoying thing for me is that the textbook is mandatory because it's online and the hw and quizzes are through the textbook. I know it's not a huge deal but almost $200.
-LOTS OF HOMEWORK
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 3.0
@@ -544,13 +355,6 @@ Would Take Again: Yes
 Grade: A
 Textbook: No
 His lectures are okay at best, and dull and sleep-worthy at worst. The homework assignments and online quizzes were very easy, as you can look up the answers or test the commands out for yourself. His TA who did the grading made mistakes sometimes, but email him about this and he will fix them. To do well you need to practice the commands often.
-Skip class? You won't pass.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 1.0
@@ -564,13 +368,6 @@ Would Take Again: No
 Grade: Not sure yet
 Textbook: No
 Most of the homework assignments are pretty difficult. He doesn't teach as if it is an INTRO class. He just assumes that you will know everything because he does. Only thing helping would be going to office hours but with one TA available one day of the week it is kind of difficult. Would not recommend taking this professor.
-Tough Grader
-Clear grading criteria
-Helpful
-Thumbs up
-2
-Thumbs down
-4
 
 Quality
 1.0
@@ -583,15 +380,7 @@ Attendance: Not Mandatory
 Would Take Again: No
 Grade: B
 Textbook: No
-Super hard. He knows everything and teaches it in a way expecting everyone to know it too. I attended all lectures and am still completely lost. Homework assignments are incredibly difficult, and both he and the TA are very hard to reach by email. Office hours are not helpful either. You will pretty much have to figure out everything on your own
-LOTS OF HOMEWORK
-LECTURE HEAVY
-Helpful
-Thumbs up
-5
-Thumbs down
-3
-
+Super hard. He knows everything and teaches it in a way expecting everyone to know it too. I attended all lectures and am still completely lost. Homework assignments are incredibly difficult, and both he and the TA are very hard to reach by email. Office hours are not  either. You will pretty much have to figure out everything on your own
 
 Quality
 2.0
@@ -603,11 +392,6 @@ For Credit: Yes
 Would Take Again: No
 Textbook: No
 One of the worst classes I have taken this semester. No passion for teaching at all.
-Helpful
-Thumbs up
-3
-Thumbs down
-2
 
 Quality
 2.0
@@ -621,15 +405,6 @@ Would Take Again: No
 Grade: B
 Textbook: No
 This class is honestly dumb. I have learned nothing and Dr. Gaitros just repeats what's in the book or tells uninteresting unrelated stories. Also, if you're not in the very front row you can't hear him at all. He tells you what's on the tests but your answer has to be correct word for word. Essay heavy class
-Tough Grader
-Tests are tough
-LECTURE HEAVY
-Helpful
-Thumbs up
-1
-Thumbs down
-0
-
 
 Quality
 3.0
@@ -643,11 +418,6 @@ Would Take Again: No
 Grade: A
 Textbook: No
 He clearly doesn't care about what he is teaching and seems miserable behind his podium. His dry voice puts me to sleep and I don't think one lecture I have went to has been productive. The only way I can complete the homeworks is by using his powerpoints and google. I don't learn in this class but the way it is set up makes it easy to get an A
-Helpful
-Thumbs up
-2
-Thumbs down
-0
 
 Quality
 4.0
@@ -660,15 +430,6 @@ Would Take Again: Yes
 Grade: B
 Textbook: No
 Good professor, you can learn and get a good grade.
-Gives good feedback
-Respected
-ACCESSIBLE OUTSIDE CLASS
-Helpful
-Thumbs up
-2
-Thumbs down
-1
-
 
 Quality
 1.0
@@ -681,14 +442,6 @@ Attendance: Not Mandatory
 Would Take Again: No
 Textbook: No
 This is the worst professor I've had at FSU, he spends more time talking about his kids in class and how old he is than going over the lecture material. Come test time you're left out in the cold in being able to recite the material after you've taught yourself, and he doesn't give you even an inch of leeway for ambiguous SQL query statements. BAD!
-Tough Grader
-BEWARE OF POP QUIZZES
-TEST HEAVY
-Helpful
-Thumbs up
-5
-Thumbs down
-4
 
 Quality
 1.0
@@ -701,15 +454,6 @@ Attendance: Not Mandatory
 Would Take Again: No
 Textbook: No
 This professor is terrible, he just chats about irrelevant topics in class and doesn't teach us the material. When it comes time for the tests he is unforgiving and the lectures he flips through aren't enough for you to understand the material. Be prepared to teach yourself.
-Tough Grader
-Skip class? You won't pass.
-TEST HEAVY
-Helpful
-Thumbs up
-4
-Thumbs down
-2
-
 
 Quality
 5.0
@@ -722,14 +466,6 @@ Attendance: Mandatory
 Would Take Again: Yes
 Textbook: Yes
 Anyone who does not think Dr. Gaitros is an excellent professor likely did not work hard in his classes. Go to class, do the homework and you will learn. Without a doubt one of the best professors in the department, this is my third class with him and would take again.
-Gives good feedback
-Respected
-Amazing lectures
-Helpful
-Thumbs up
-2
-Thumbs down
-3
 
 Quality
 3.0
@@ -743,15 +479,6 @@ Would Take Again: No
 Grade: A-
 Textbook: No
 Gaitros is a cool guy but sometimes isn't very clear during lectures or instructions for assignments. Assignments are pretty easy, if anything just look through his powerpoints and you should understand how to do them. There are quizzes that are due at the end of the semester but you get 5 tries on them. Only 2 tests: midterm and final.
-ACCESSIBLE OUTSIDE CLASS
-Clear grading criteria
-LECTURE HEAVY
-Helpful
-Thumbs up
-2
-Thumbs down
-1
-
 
 Quality
 3.0
@@ -765,12 +492,6 @@ Would Take Again: No
 Grade: C-
 Textbook: No
 Programming was my worst class this past semester. It is unbelievable easy to zone out of his lectures. If you are not a computer science major, do not take this class with Gaitros. As a person who had never coded anything before I was extremely lost for a majority of the year. I found the tests very hard to prepare but he made the final easy.
-Skip class? You won't pass.
-Helpful
-Thumbs up
-2
-Thumbs down
-1
 
 Quality
 3.0
@@ -784,15 +505,6 @@ Would Take Again: No
 Grade: A
 Textbook: Yes
 Frequently forgets that students don't know as much as he does, which makes lecture not that great but there are attendance quizzes every now and then. Do as well as you can in the 1st half of the class because it gets a lot harder later. He can be a real stickler despite seeming nice, but he also seemingly gave us a pretty good curve at the end.
-Skip class? You won't pass.
-BEWARE OF POP QUIZZES
-Hilarious
-Helpful
-Thumbs up
-3
-Thumbs down
-1
-
 
 Quality
 3.0
@@ -806,14 +518,6 @@ Would Take Again: Yes
 Grade: A
 Textbook: No
 Not a bad professor. If you do what he ask for, you will pass. He makes class more entertaining by his jokes and can make certain things easier to learn by his comparison. Overall good guy and would recommend anyone to take him.
-Participation matters
-Clear grading criteria
-Hilarious
-Helpful
-Thumbs up
-0
-Thumbs down
-1
 
 Quality
 2.0
@@ -825,15 +529,6 @@ For Credit: Yes
 Would Take Again: Yes
 Textbook: No
 professor gaitros has a lot of knowledge on the subjects he teaches but he doesn't spend time thinking about how to engage the students to his lectures. You either read off the powerpoint or you zone out. Gives pop quizzes sometimes and doesn't give much partial credit as one error will make your entire answer incorrect in the end.
-BEWARE OF POP QUIZZES
-Hilarious
-LECTURE HEAVY
-Helpful
-Thumbs up
-2
-Thumbs down
-1
-
 
 Quality
 4.0
@@ -847,14 +542,6 @@ Would Take Again: Yes
 Grade: A
 Textbook: No
 Professor Gaitros' class is an easy to pass class but you probably won't learn very much while you're there. He's funny and he seems to know what he's talking about, but he just doesn't tend to convey it very well.
-Respected
-Hilarious
-Caring
-Helpful
-Thumbs up
-1
-Thumbs down
-1
 
 Quality
 2.0
@@ -867,12 +554,6 @@ Attendance: Not Mandatory
 Would Take Again: No
 Textbook: No
 Not a great professor for Unix. He makes the already boring subject even more boring. Not a difficult class but Google teaches you more than he does.
-Helpful
-Thumbs up
-1
-Thumbs down
-1
-
 
 Quality
 3.0
@@ -885,11 +566,6 @@ Attendance: Not Mandatory
 Grade: A
 Textbook: No
 I had experience programming when I came in making this class relatively easy; however 94% is an A. Tests are easy to study for if you read the power-points. Do programming assignments a week early, submit as much as you want before the due date. Spent time in lecture teaching myself Haskell, was more interesting to me.
-Helpful
-Thumbs up
-0
-Thumbs down
-1
 
 Quality
 4.5
@@ -902,12 +578,6 @@ Attendance: Not Mandatory
 Grade: A
 Textbook: No
 I really really liked this class. He gave clear expectations for grades and subject matter, assigned relevant homework, and worked to help you understand in class. If you aren't getting it, go to class. He's pretty entertaining, ask him about chickens. Seems like a good guy and is experienced in the field. Textbook helps but isn't mandatory.
-Helpful
-Thumbs up
-2
-Thumbs down
-1
-
 
 Quality
 5.0
@@ -920,11 +590,6 @@ Attendance: Mandatory
 Grade: A
 Textbook: Yes
 This can be a hard and challenging class, but Dr. Gaitros KNOWS his stuff and he is very good at teaching. DO NOT skip class or you will fail! He can be intimidating to approach, but he means well. The homework is challenging, but essential and relevant to do well on exams. Ask for help during recitations/TA office hours for help! I got an A!
-Helpful
-Thumbs up
-4
-Thumbs down
-3
 
 Quality
 1.0
@@ -935,12 +600,6 @@ Apr 27th, 2016
 For Credit: Yes
 Textbook: No
 Guy is awful. Treats programming 1 like you've been programming all your life. Does his best to make it hard on students & wants students to do poorly. Makes us learn information that students taking programming 2 haven't learned. Awful guy as well, real headcase. Stay away from this guy
-Helpful
-Thumbs up
-8
-Thumbs down
-13
-
 
 Quality
 3.0
@@ -952,12 +611,7 @@ For Credit: Yes
 Attendance: Not Mandatory
 Grade: A-
 Textbook: No
-I strongly dislike Dr. Gaitros. He is quite arrogant and begins every most classes with a picture or story from him in his "glory days". Most questions are meet with a rude, unhelpful response. All that being said, he produces some very helpful videos online. Didn't learn much from his class, and felt I was always debating errors in grading.
-Helpful
-Thumbs up
-11
-Thumbs down
-10
+I strongly dislike Dr. Gaitros. He is quite arrogant and begins every most classes with a picture or story from him in his "glory days". Most questions are meet with a rude, un response. All that being said, he produces some very  videos online. Didn't learn much from his class, and felt I was always debating errors in grading.
 
 Reviewed: Feb 28th, 2016
 Quality
@@ -970,12 +624,6 @@ For Credit: Yes
 Textbook: No
 Online Class: Yes
 Literally the easiest course I have ever taken in my life. Kindergarten included.
-Helpful
-Thumbs up
-3
-Thumbs down
-2
-
 
 Quality
 4.5
@@ -988,11 +636,6 @@ Attendance: Mandatory
 Grade: A
 Textbook: Yes
 Awesome professor. Class was basically difficult to fail, but he made the lectures interesting.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -1005,12 +648,6 @@ Attendance: Not Mandatory
 Grade: A+
 Textbook: No
 EASIEST CLASS I HAVE EVER TAKEN. don't bother going to class except for the midterm,final and last day of class. he records himself doing the assignments that are due weekly. all the answers to his class are online. i ended with a 100 in his class.
-Helpful
-Thumbs up
-0
-Thumbs down
-3
-
 
 Quality
 2.0
@@ -1022,11 +659,6 @@ For Credit: Yes
 Attendance: Not Mandatory
 Textbook: No
 If you're hoping for an understanding prof who cares about his students and works with them, you're in the wrong class. Everything is black and white. The syllabus is the only thing he understands, it's the bible. If you make mistakes andor are human, forget it. Directions are super clear just make sure you follow them! If you do, easy class.
-Helpful
-Thumbs up
-0
-Thumbs down
-2
 
 Quality
 3.5
@@ -1037,13 +669,7 @@ Jul 23rd, 2015
 For Credit: Yes
 Textbook: Yes
 Online Class: Yes
-Very good class, one essay and some weekly assignments. People say not to get the book but I found that the book was very helpful and especially for the essay, which it guided me through. Makes things much easier.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
+Very good class, one essay and some weekly assignments. People say not to get the book but I found that the book was very  and especially for the essay, which it guided me through. Makes things much easier.
 
 Quality
 4.0
@@ -1056,11 +682,6 @@ Attendance: Not Mandatory
 Grade: A+
 Textbook: No
 If you are capable of following basic step by step instructions while watching a detailed video of the assignment and you have fairly good memorization skills then this class should be an easy A! TAKE IT! Seriously the easiest class at FSU.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.0
@@ -1072,12 +693,6 @@ For Credit: Yes
 Attendance: Not Mandatory
 Textbook: No
 Best decision ive ever made, especially my very first class as an incoming freshman! Such a cute old man, love him! TAKE HIM
-Helpful
-Thumbs up
-0
-Thumbs down
-1
-
 
 Quality
 5.0
@@ -1091,11 +706,6 @@ Grade: A+
 Textbook: No
 Online Class: Yes
 Dr. Gaitros was my last professor at fsu. Literally the most informational, easy class you could take. His TA's were always answering back within an hour, and he did a great job teaching the course online! Just keep up with the work, watch his videos, and guarenteed an A. Don't buy book, just do graded study guides.. They are the test.
-Helpful
-Thumbs up
-0
-Thumbs down
-1
 
 Quality
 4.0
@@ -1107,12 +717,6 @@ For Credit: Yes
 Textbook: No
 Online Class: Yes
 TAKE THIS CLASS ONLINE! Easiest A I have ever gotten and it really helped my GPA. Dr. Gaitros posts videos on Blackboard with step-by-steps on how to do assignments so it's pretty much impossible to not get an A. There are 2 tests and there are some quizzes that you have to do on your own time. Other than that it's an easy A.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1123,11 +727,6 @@ May 4th, 2015
 For Credit: Yes
 Textbook: No
 Class is impossible not to pass. He gives all of the instructions for the assignments in videos so you can follow along and ace the class.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -1140,12 +739,6 @@ Attendance: Not Mandatory
 Grade: A+
 Textbook: No
 This is literally the easiest class at FSU. You don't have to show up for class and the assignments are easy and can be done just by watching the videos and mimicking them step for step. 2 tests, got a 98 on both of them. Take this for a GPA booster. DON'T WASTE MONEY ON THE BOOK! You will never need it!
-Helpful
-Thumbs up
-3
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1158,11 +751,6 @@ Attendance: Not Mandatory
 Grade: A
 Textbook: No
 Easy A! I only went to the first 2 classes and got an A. You have 6 assignments that have videos showing you exactly how to do it, online quizzes (3 attempts, shows you the wrong answers), & 2 tests. The tests are made out of the quizzes so make a quizlet and memorize those! 98 on first test, 94 on second. Textbook is highly unnecessary. Great guy!
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -1175,12 +763,6 @@ Attendance: Not Mandatory
 Grade: A+
 Textbook: No
 don't buy the textbook. do the assignments on time. never went to class because you don't need to. easy A
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1193,11 +775,6 @@ Attendance: Not Mandatory
 Grade: B+
 Textbook: No
 This class is easy. The only reason I didn't get an A is because I turned in papers late. Don't buy the textbook because you will never need it.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.5
@@ -1208,12 +785,6 @@ Feb 11th, 2015
 For Credit: Yes
 Textbook: No
 Gaitros is a pretty good guy. He knows what he is talking about and doesn't get butt-hurt over people not attending lectures. All of his notes are online and his tests are pretty straightforward.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 3.0
@@ -1224,11 +795,6 @@ Jan 6th, 2015
 For Credit: Yes
 Textbook: No
 Easiest Class I have ever taken. I have not found a class that is easier to get an A in. Do all the assignments and you will get an A in the class.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.5
@@ -1241,12 +807,6 @@ Attendance: Not Mandatory
 Grade: A
 Textbook: Yes
 Easiest waste of time class I have ever taken in my life. You have to try not to get an A. Exams are made up of online quiz questions and assignments are shown step by step in tutorial videos. A TA teaches lectures but honestly you don't need to go.
-Helpful
-Thumbs up
-1
-Thumbs down
-1
-
 
 Quality
 4.0
@@ -1259,11 +819,6 @@ Attendance: Not Mandatory
 Grade: A+
 Textbook: Yes
 Convinced this is the easiest class you can take at FSU, went to class the first day and didn't show up a day after. All the assignments are online coupled with an instruction sheet and tutorial videos that hold your hand to get a 100. Exams are pooled using quiz questions and you can take the quizzes three times for the highest grade. EASY.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.0
@@ -1275,13 +830,7 @@ For Credit: Yes
 Attendance: Not Mandatory
 Grade: A
 Textbook: No
-This is probably the easiest class I've taken at FSU. Went to one class - the first one - and easily scored an A in this class. He's really clear on how to do the assignments, posting up videos that are super-helpful, and all of the test questions can be found through his "graded study guides." Super easy class.
-Helpful
-Thumbs up
-0
-Thumbs down
-1
-
+This is probably the easiest class I've taken at FSU. Went to one class - the first one - and easily scored an A in this class. He's really clear on how to do the assignments, posting up videos that are super-, and all of the test questions can be found through his "graded study guides." Super easy class.
 
 Quality
 4.0
@@ -1294,11 +843,6 @@ Attendance: Not Mandatory
 Grade: A+
 Textbook: Yes
 You don't go to class. He posts the powerpoints online and you take online quizzes that aren't timed so you can use your book. There are a few basic powerpoint or excel assignments throughout the year, but they're so easy!
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.0
@@ -1311,12 +855,6 @@ Attendance: Not Mandatory
 Grade: A
 Textbook: No
 If you get less than an A in this class you should drop out. The test questions are quiz questions. The quiz is open book so use your power point slides. Don't bother buying the book. He makes it clear that this class is an easy A. Take it. Didn't show up after the first class and got an 100% in the class.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 4.0
@@ -1329,11 +867,6 @@ Attendance: Not Mandatory
 Grade: A
 Textbook: Yes
 I only showed up to class twice and got an A. This is one of the easiest classes. There's two exams, no final, 6 assignments and 12 quizzes. All the quizzes are due at the end of the semester. Some of the assignments are a little challenging, but if you watch his videos and read the walkthroughs, you'll get an A. You'll definitely need the textbook
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 3.0
@@ -1345,12 +878,6 @@ For Credit: Yes
 Attendance: Not Mandatory
 Textbook: Yes
 Most of this class is online even though it is a lecture class. I only saw Dr. Gaitros on the first day of class and the rest of the time his TA taught. The computer assignments are difficult if you are not proficient with Microsoft Office but he posts videos for each assignment that show you how to do them. The quizzes and tests are easy.
-Helpful
-Thumbs up
-0
-Thumbs down
-1
-
 
 Quality
 4.0
@@ -1361,11 +888,6 @@ Oct 19th, 2014
 For Credit: Yes
 Textbook: No
 The easiest class you will ever take. His grading criteria and assignments are pretty clear. The exam is taken directly from the chapter quizzes. It's hard not to get an A in this class. Just follow the instructions one-by-one and if you have any questions he's always willing to answer them.
-Helpful
-Thumbs up
-0
-Thumbs down
-1
 
 Quality
 3.5
@@ -1377,12 +899,6 @@ For Credit: Yes
 Textbook: No
 Online Class: Yes
 Pretty easy class. My only complaint was if you messed up on one of the steps on the activities you could get a C on the activities. I don't think the class itself is hard. The test is made up of quiz questions so just memorize those and you're fine.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1393,12 +909,7 @@ Apr 23rd, 2014
 Attendance: Mandatory
 Grade: A+
 Textbook: No
-Easy peasy. He literally does the assignments in class AND if you never show up to class he posts videos showing you step by step how to do them. You are given every exam question and answer before taking it. Word for word. I know zero about computers yet I am getting a 99. Easy class and helpful guy.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+Easy peasy. He literally does the assignments in class AND if you never show up to class he posts videos showing you step by step how to do them. You are given every exam question and answer before taking it. Word for word. I know zero about computers yet I am getting a 99. Easy class and  guy.
 
 Quality
 5.0
@@ -1409,13 +920,7 @@ Apr 23rd, 2014
 Attendance: Mandatory
 Grade: A+
 Textbook: No
-Easy peasy. He literally does the assignments in class AND if you never show up to class he posts videos showing you step by step how to do them. You are given every exam question and answer before taking it. Word for word. I know zero about computers yet I am getting a 99. Easy (x100) class and helpful guy.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
+Easy peasy. He literally does the assignments in class AND if you never show up to class he posts videos showing you step by step how to do them. You are given every exam question and answer before taking it. Word for word. I know zero about computers yet I am getting a 99. Easy (x100) class and  guy.
 
 Quality
 5.0
@@ -1427,11 +932,6 @@ Attendance: Mandatory
 Grade: A+
 Textbook: No
 SUCH AN EASY A. Do the assignments and if you are confused he posts step by step videos on blackboard. Easiest class I taken so far
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 3.5
@@ -1441,12 +941,6 @@ CGS2060
 Apr 6th, 2014
 Textbook: No
 Dr. G's a good teacher, but makes the class boring with meaningless lectures. Don't buy the book b/c we didn't use it once (I rented it and wasted $ I could've saved for other stuff). The class is SO easy - everything's online, optional attendance. He posts videos on how to do the HW assgts. and test questions come from the online quizzes. Easy A!
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1455,12 +949,7 @@ Difficulty
 CGS2060
 Mar 25th, 2014
 Textbook: Yes
-He is so helpful and nice! Super easy course. The exam questions are the exact same questions from the online quizzes.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+He is so  and nice! Super easy course. The exam questions are the exact same questions from the online quizzes.
 
 Quality
 5.0
@@ -1471,13 +960,7 @@ Jan 1st, 2014
 For Credit: Yes
 Textbook: No
 Online Class: Yes
-He was so nice and helpful, answered all questions immediately through the Facebook group. Actually posted videos of himself doing the work on both kinds of computers. Quizes are so easy and the tests are the exact questions from the quiz so just copy and paste them to a document to save them
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
+He was so nice and , answered all questions immediately through the Facebook group. Actually posted videos of himself doing the work on both kinds of computers. Quizes are so easy and the tests are the exact questions from the quiz so just copy and paste them to a document to save them
 
 Quality
 5.0
@@ -1488,12 +971,7 @@ Dec 19th, 2013
 For Credit: Yes
 Textbook: Yes
 Online Class: Yes
-Very easy class. The tests are questions straight from the quizzes, so if you take the quizzes type up the questions so you can study later because you can't go back once you submit them. Assignments are easy and he posts videos to help you along with step by step directions. He's also very helpful if you need it.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+Very easy class. The tests are questions straight from the quizzes, so if you take the quizzes type up the questions so you can study later because you can't go back once you submit them. Assignments are easy and he posts videos to help you along with step by step directions. He's also very  if you need it.
 
 Quality
 1.5
@@ -1503,12 +981,6 @@ CEN4021
 May 6th, 2013
 Textbook: Yes
 The grade distribution adds up to 90%. Weird right? That's the the way all the assignments are written. Just ask right? Well IF he responds it will be short and unclear. People like him because he's pretty easy. Gaitros' goal is to put as little effort into the class as possible. He'll also tell you why he's awesome and people on here are wrong.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
-
 
 Quality
 1.0
@@ -1518,11 +990,6 @@ CEN4021
 May 6th, 2013
 Textbook: Yes
 For a class as fundamental for a student in CS's education, David Gaitros ruins the field for you. He conveys information poorly and in a condescending manner. Grading is done haphazardly and extremely subjectively. You will be forced to take this class with for as long as he teaches at FSU.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
 
 Quality
 5.0
@@ -1532,12 +999,6 @@ COP3330
 May 6th, 2013
 Textbook: No
 Dr. Gaitros is a wonderful professor. He does a wonderful job explaining the projects with clarity. His tests are straight forward and deals with what you've learned in the classroom. Plus, he keeps class interesting as he is a comedian.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 4.0
@@ -1547,11 +1008,6 @@ COP3330
 Apr 15th, 2013
 Textbook: No
 Amazing professor for computer science classes... dont listen to the people commenting about comp fluency, of course that class is a joke. For real comp sci classes he is amazing take him for anything you possibly can
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -1561,12 +1017,6 @@ COP3353
 Jan 16th, 2013
 Textbook: Yes
 very professional academia focused type. Seems like the kind of guy that has already made it himself, and wants to give back to the Comp Sci world by preparing his students for their road ahead
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 2.0
@@ -1576,11 +1026,6 @@ CEN3
 Dec 13th, 2012
 Textbook: Yes
 I found Dr. Gaitros to be somewhat condescending. As a straight-A student, I like to assist teachers in improving the coursework. Gaitros seemed to take offense at my written arguments, cited his credentials frequently, and sardonically remarked that my grade of 60 on the fourth assignment was "generous" and could have been lower.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
 
 Quality
 4.5
@@ -1590,12 +1035,6 @@ COP3353
 Oct 16th, 2012
 Textbook: No
 Gaitros is a swell guy.... Honest to God he does all he can to help you pass! I greatly enjoyed his course and I wish it didn't have to end so soon.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1605,11 +1044,6 @@ COP3014
 Sep 9th, 2012
 Textbook: No
 great professor. extremely entertaining and GETS THE JOB DONE
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -1618,13 +1052,7 @@ Difficulty
 COP3330
 Aug 27th, 2012
 Textbook: Yes
-Take him for any computer science class and you will nto regret. He is very helpful and makes sure everyone understands the subject matter. Everything becomes easier if you attend. He does nto take a roll and classes are not mandatory but it helps anyone who attends regular basis. You will make a good grade if you just pay attention a little.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
+Take him for any computer science class and you will nto regret. He is very  and makes sure everyone understands the subject matter. Everything becomes easier if you attend. He does nto take a roll and classes are not mandatory but it helps anyone who attends regular basis. You will make a good grade if you just pay attention a little.
 
 Quality
 5.0
@@ -1634,11 +1062,6 @@ COP3330
 Aug 20th, 2012
 Textbook: Yes
 Take any of his classes without a doubt. He is not in "failing" or 'ruining your academic carrier" business like some(!) other instructors in CS Department. Make sure you attend his classes and pay attention to what he says and I can promise you that he knows it all 10 times better than any other instructor you will ever meet. Great Teacher.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -1648,12 +1071,6 @@ COP3330
 Aug 14th, 2012
 Textbook: Yes
 best professor ever. took him for cop3014 and cop3330 I got an A in both classes. assignments takes forever to finish and only worth 30% but thats not his fault I wish he can teach every single cs class at FSU. take him and u will never regret it.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1662,12 +1079,7 @@ Difficulty
 COP3330
 Aug 14th, 2012
 Textbook: Yes
-He is an awesome instructor ! Take any of his classes and you will not regret. Super helpful in and out of class. Very knowledgable and teaches really good. Grading percentages are painful because of computer science department but Dr G makes it happen for students. Great guy !!!
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+He is an awesome instructor ! Take any of his classes and you will not regret. Super  in and out of class. Very knowledgable and teaches really good. Grading percentages are painful because of computer science department but Dr G makes it happen for students. Great guy !!!
 
 Quality
 5.0
@@ -1677,12 +1089,6 @@ COP3330
 Aug 8th, 2012
 Textbook: Yes
 Dr G is best programming teacher at FSU. I don't care how much others know or how good they are with such and such applications. That don't help students unless you know how to teach. I learned more with Gaitros then any other instructor.He is really cool and you will be very happy to take ANY of his classes. Dodge all others and take his classes!
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1692,11 +1098,6 @@ COP3330
 Aug 4th, 2012
 Textbook: No
 Best teacher I've had at FSU. You can tell this guy has years of professional experience as he knows his stuff backwards and forwards. Plus, he's very entertaining and easy to talk to. I'm going into my third year and I've already had him 3 times. Can't wait to take another class with this guy.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
 
 Quality
 5.0
@@ -1706,12 +1107,6 @@ COP3330
 Aug 3rd, 2012
 Textbook: Yes
 He actually teaches instead of acting in class. His examples are very much from the real stuff you will encounter when you get out of school. You just need to dedicate some time for this class as CS at FSU wants you to code a lot and don't give you any grade for it. Homeworks take ton of time and not worth anything. Not Dr G's fault. Great class !
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1720,12 +1115,7 @@ Difficulty
 COP3330
 Aug 2nd, 2012
 Textbook: Yes
-He is a super helpful instructor. Take COP 3014, COP3330 and Data Structures with Dr G and you will not regret. You actually learn coding in his class. He has good sense of humor in class. It was a hard class but he was very helpful. Just attend his class and make a little effort. You will actually develop good coding skills.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+He is a super  instructor. Take COP 3014, COP3330 and Data Structures with Dr G and you will not regret. You actually learn coding in his class. He has good sense of humor in class. It was a hard class but he was very . Just attend his class and make a little effort. You will actually develop good coding skills.
 
 Quality
 5.0
@@ -1735,12 +1125,6 @@ COP3330
 Aug 2nd, 2012
 Textbook: Yes
 Awesome instructor. If you will be taking ANY programming class, take his class no doubt. He makes every effort to help and make sure you actually understand the subject matter. He coded for living so he will give you real life examples and how what you are learning is applicable in real life !
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 1.5
@@ -1750,11 +1134,6 @@ COP3014
 May 31st, 2012
 Textbook: No
 Half the students attend his class because they already know how to program, so he tries to make somewhat difficult programs. If you're a newcomer to programming, be aware. He does not explain concepts very well, and asking him questions is very intimidating.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
 
 Quality
 4.5
@@ -1764,12 +1143,6 @@ CGS2100
 Jan 9th, 2012
 Textbook: No
 He is awesome. Go to class the week the project is due and you will get an A. Easiest A at FSU.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -1779,11 +1152,6 @@ COP3014
 Jan 5th, 2012
 Textbook: No
 Dr. Gaitros is a great teacher. Intro to programming was my first programming course and made what I thought would be a hard class very easy. He helps out with the assignments in class, so make sure you go (at least) on weeks when they are due. Pay attention and its an easy A
-Helpful
-Thumbs up
-1
-Thumbs down
-1
 
 Quality
 4.0
@@ -1793,12 +1161,6 @@ CGS2060
 Aug 30th, 2011
 Textbook: No
 Class was VERY easy, however even when there were some questions he always made sure to answer them as best as possible. A very nice guy too, if that counts for anything.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 2.0
@@ -1808,11 +1170,6 @@ CGS2060
 Aug 6th, 2011
 Textbook: No
 David is a really boring teacher. He just stands there and talks about chapters from the book and goes over the assignments. This class is a joke. The tests are exactly from the study guides and the projects are farely easy. You should def take this class if you want an easy A.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 1.5
@@ -1821,13 +1178,7 @@ Difficulty
 CGS2060
 Jul 13th, 2011
 Textbook: No
-Not helpful. I hate professors that try to make their simple boring classes more difficult than they really are. It's a really easy class, easy memorization for tests, easy grades for assignments. Just make sure you turn them in on time, there is a deadline discrepancy on one of his assignments. But he's too cool to care about it.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
+Not . I hate professors that try to make their simple boring classes more difficult than they really are. It's a really easy class, easy memorization for tests, easy grades for assignments. Just make sure you turn them in on time, there is a deadline discrepancy on one of his assignments. But he's too cool to care about it.
 
 Quality
 1.0
@@ -1837,11 +1188,6 @@ CGS2060
 May 8th, 2011
 Textbook: No
 Easy class, but seen as completely pointless by everyone including the instructor. Maybe that's why he put in no effort at all. This required course is the epitome of everything wrong with college education in the US.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -1851,12 +1197,6 @@ CGS2060
 May 6th, 2011
 Textbook: No
 If you're taking the required computer fluency course, it doesn't matter who you take. Don't buy the book, don't go to class. Just review the powerpoints before the exams and do the projects. It's better if you don't procrastinate on the projects, you can do them all the first week i you want.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 1.0
@@ -1866,11 +1206,6 @@ CGS2060
 Apr 26th, 2011
 Textbook: No
 I guess for all the people who wrote positive reviews here, easy A = awesome teacher. Yes, it is true that the class will be an easy A. However, if you have any problems and actually have to speak with him (you wouldn't under normal circumstances because TAs teach the whole class) he is rude, condescending, and confrontational about everything.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 2.5
@@ -1880,12 +1215,6 @@ CGS2060
 Dec 31st, 2010
 Textbook: No
 This class was SO boring. I never attended. Did minimal work and didn't have the book but followed the instructions of the projects (what your entire grade is based off of) and passed with a B. Not professors fault that the class sucked so much but he really did nothing to make it interesting or worth attending.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 2.5
@@ -1895,11 +1224,6 @@ CGS2100
 Dec 28th, 2010
 Textbook: No
 You do not need to buy the book, you will never use it. His study guides tell you everything you need to know for the test. I never went to class and got a 98.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -1909,12 +1233,6 @@ CGS2060
 Dec 13th, 2010
 Textbook: No
 VERY,VERY,VERY easy professor! He acknowledges that most of the students taking the class are doing it because they have to, so he makes it very easy to get an A. He does all the assignments in class. The tests are kinda difficult, but if you do good on the assignments, which there should be no reason you don't do well, you will be fine! TAKE TAKE!
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 1.5
@@ -1924,11 +1242,6 @@ CGS2060
 Dec 6th, 2010
 Textbook: No
 Fairly simple class. Anyone with a basic understanding of computers will get a B at the lowest. Do the assignments ahead of time, since late papers are dropped two letter grades. The professor is very confrontational and disrespectful. He assumes the worst of all his students, and isn't willing to compromise at all. Intructions are a bit vague.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 2.5
@@ -1938,12 +1251,6 @@ CGS2100
 Dec 2nd, 2010
 Textbook: Yes
 Extremely, extremely easy class. Never went to lecture, just turned in the projects, and studied a little bit before the tests and made easy A. I only ever used the textbook to study for tests.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 3.5
@@ -1952,12 +1259,6 @@ Difficulty
 CGS2100
 Aug 24th, 2010
 Textbook: No
-didnt buy anything and still got an easy A. as long as youre somewhat familiar with computers you will get an easy A. not to mention he does all the assignments in class for you.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 3.5
@@ -1967,12 +1268,6 @@ CGS2060
 Aug 13th, 2010
 Textbook: No
 Took the class online but it is still very easy. The CD explains everything you need to do. As long as you follow the instructions you will get an A on all the assignments. The exams are not so hard as long as you study the study guide. Don't bother reading the book, just look at the definitions at the end.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 4.5
@@ -1982,11 +1277,6 @@ CGS2060
 Aug 10th, 2010
 Textbook: No
 Took it online. Anyway, don't buy the book, BUY THE CD and make it your best friend. It will show you everything you need to know. Word, Excel, Access and PowerPoint Assignments. Follow the instructions on BB word for word and you'll get 100 on each assignment. For the concept exams, study the study guides and powerpoints for the chapters. Easy A.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.0
@@ -1996,12 +1286,6 @@ CGS2060
 Aug 5th, 2010
 Textbook: No
 Pretty good professor. Attending class wasn't mandatory, so I didn't go too often, which is fine if you understand Microsoft programs. When I was there, he explained everything in great detail & answered questions at the end of class. The projects were easy, exams not so much, but overall most everyone got an A in the class.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 3.0
@@ -2011,11 +1295,6 @@ CGS2100
 Jul 27th, 2010
 Textbook: No
 Easy class. He went over the projects on Tuesday, then reviewed them on Thursday. Never did anyone "homework." Just go to class.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 2.0
@@ -2024,13 +1303,7 @@ Difficulty
 CGS2060
 Jun 30th, 2010
 Textbook: No
-Took the online version of the required Computer Literacy class. Got points taken off for ridiculous things. Can't say much good or bad about the professor himself, except that he doesn't seem to be very helpful at all. Very little book use (all of the information that you need to know is posted on the course webpage).
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
+Took the online version of the required Computer Literacy class. Got points taken off for ridiculous things. Can't say much good or bad about the professor himself, except that he doesn't seem to be very  at all. Very little book use (all of the information that you need to know is posted on the course webpage).
 
 Quality
 2.0
@@ -2040,11 +1313,6 @@ CGS2060
 May 10th, 2010
 Textbook: Yes
 I took the online version of this class, it's not very hard, yet be very careful on the details of the hw so that you get all the points. Yet, this professor is rude, I asked for help and he simply replied 'I already told you this, show up for class and you would understand.' If I'm online it's because I obviously can't come to class.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 3.0
@@ -2054,12 +1322,6 @@ CGS2100
 Apr 27th, 2010
 Textbook: No
 Never went to class and still got an A. Easy class. Make sure you go over the review sheet before the exam. Use the CD, and you'll get a 100 on every assignment. Oh, and heads up, the research paper isn't graded at all on content, only on format. Don't waste your time writing a quality paper.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 2.5
@@ -2069,11 +1331,6 @@ CGS2060
 Apr 11th, 2010
 Textbook: No
 The class is really boring but easy... you don't have to go to class to do well.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 2.0
@@ -2083,12 +1340,6 @@ CGS2100
 Dec 18th, 2009
 Textbook: No
 This class is extremely boring. Attendance is not mandatory so no one shows up. The tests are hard even if you do the study guide, but the extra credit at the end will leave you with a chance to get an A. If you are taking this class most likely it is a required class. Just suck it up, its only a semester
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -2098,11 +1349,6 @@ CGS2100
 Dec 7th, 2009
 Textbook: No
 Definitely an easy A class but he allows no motivation to go to class. Notes and assignments are all online. The book won't do you much good but the tutorial video is a lifesaver when it comes to the homework. No-brainer class.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 3.0
@@ -2112,12 +1358,6 @@ CGS2100
 Nov 2nd, 2009
 Textbook: No
 Read off the powerpoints which were posted on blackboard, I found the few lectures I attended to be monotonous. Class started with 400 people and by mid-semester, 5% of the class would attend. Textbook itself is not needed, the CD which comes with it is the key to success. If you're decent with a computer you'll do fine without studying excessively
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0
@@ -2127,11 +1367,6 @@ COP3330
 Aug 30th, 2009
 Textbook: Yes
 nice
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.0
@@ -2141,12 +1376,6 @@ CGS2100
 Aug 24th, 2009
 Textbook: No
 He is a great teacher. Although he reads some of the powerpoints he explains things in detail. Sometimes he will give the multiple choice questions and answers directly from the test. Easy tests and assignments. Definitely an easy A. Highly Recommended.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 2.0
@@ -2156,11 +1385,6 @@ CGS2100
 Aug 23rd, 2009
 Textbook: No
 his class is basically online because his lectures are POINTLESS. You buy a text book you never open, which comes with a cd. However, the cd is quite useful; it is to some degree your ticket to an A. follow what the cd says and you will get an A without having to attend to class. GREAT GPA BOOSTER!
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 3.5
@@ -2170,12 +1394,6 @@ CGS2100
 Aug 11th, 2009
 Textbook: No
 Class is pointless, all he did was show powerpoints that he posts on blackboard anyways. Don't waste the money on the textbook; all you need is the CD, which can be found cheap online. Much easier on a PC than a Mac. Watch out for the Access project. And make sure you study for Test 1 especially. Overall, easy class with a boring but nice teacher.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 3.5
@@ -2185,11 +1403,6 @@ CGS2060
 Aug 2nd, 2009
 Textbook: No
 CD for class is VERY important to do the assignments, you just watch the tutorials and do the projects. they seem to take random points off for no reason so check up on what they take off for and tell them if you think they were wrong, theyll fix it. concepts tests hard but if you get As on the projects you can afford to get Cs on the tests.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 3.0
@@ -2199,12 +1412,6 @@ CGS2100
 Jul 30th, 2009
 Textbook: No
 If you have actual interest in this subject take a different teacher because I went to class 2 times and got an A+. His lectures make you fall asleep and tests are EXTREMELY EASY. One good thing about him is he made study guide with the same questions as the test. If you want an easy A take this class. Just do Study guide and read the power points.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 1.0
@@ -2213,11 +1420,6 @@ Difficulty
 COP3331
 Jul 31st, 2005
 The guy is a dumbass. No in depth knowledge. Why should one simply memorize his powerpoint slides? Passes time telling stories. Basically worthless. His classes are a bore. Stay away from his class.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.0
@@ -2226,12 +1428,6 @@ Difficulty
 COP3331
 Jun 16th, 2005
 Interesting classes (stories and discussions), but basically just covers PP Slides and tells you what to memorize for tests. Assigned book is worthless!
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 1.0
@@ -2240,11 +1436,6 @@ Difficulty
 COP3331
 Mar 30th, 2005
 pointless class... he's boring and gives too many stories during class. memorizing powerpoint slides should not constitute a college course
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 1.0
@@ -2253,12 +1444,6 @@ Difficulty
 COP3331
 Sep 11th, 2004
 Stay away. Dream crusher .. no in depth materials. He thinks that by memorizing the text book he can be a good teacher.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 4.0
@@ -2267,11 +1452,6 @@ Difficulty
 COP3331
 Apr 25th, 2003
 Good teacher. Seems genuinely concerned about students. Lacks indepth subject knowledge.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 4.0
@@ -2280,12 +1460,6 @@ Difficulty
 CGS
 Jul 10th, 2002
 No Comments
-Helpful
-Thumbs up
-0
-Thumbs down
-0
-
 
 Quality
 5.0

@@ -59,7 +59,7 @@ Answer using only the documents above. End with a Sources: section."""
     if "I don't have enough information" in answer:
         answer = answer.split("Sources:")[0].strip()
         answer += "\n\nSources: None — question is outside the scope of available documents."
-        
+
     return {
         "answer": answer,
         "sources": list(sources),
@@ -67,11 +67,12 @@ Answer using only the documents above. End with a Sources: section."""
     }
 
 if __name__ == "__main__":
-    # Test grounded generation
     test_queries = [
         "What do students say about David Gaitros's teaching style?",
         "Is attendance mandatory for Andy Wang's COP4610?",
-        "What is the best pizza place near FSU?"  # out-of-scope test
+        "Which FSU CS professors do students recommend most?",
+        "What are students' biggest complaints about the FSU CS department?",
+        "What do students say about Xin Yuan's course difficulty?"
     ]
 
     for query in test_queries:
